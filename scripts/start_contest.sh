@@ -9,6 +9,9 @@ fi
 problems="a,b,c,d,e,f,g,h"
 contest_dir=./contests/${contest_name}_${type}
 
+if [ ! -e ./contests ]; then
+  mkdir ./contests
+fi
 
 if [ -e $contest_dir ]; then
   code ${contest_dir}
@@ -78,6 +81,7 @@ elif [ "$type" = "marathon" ]; then
   sed "s/<CONTESTNAME>/${contest_name}/g" ${templatedir}/.vscode/tasks.json > ${contest_dir}/.vscode/tasks.json
   sed "s/<CONTESTNAME>/${contest_name}/g" ${templatedir}/.vscode/settings.json > ${contest_dir}/.vscode/settings.json
 fi
+
 
 # vscodeで開く
 code ${contest_dir}
