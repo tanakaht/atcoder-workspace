@@ -1,0 +1,342 @@
+    Blocking waiting for file lock on build directory
+    Finished release [optimized] target(s) in 0.39s
+     Running `target/release/tester ../target/release/ahc025_a`
+turn: 1 end
+turn: 2 end
+turn: 3 end
+turn: 4 end
+turn: 5 end
+turn: 6 end
+turn: 7 end
+turn: 8 end
+turn: 9 end
+turn: 10 end
+turn: 11 end
+turn: 12 end
+turn: 12, n_sample: 15
+turn: 13 end
+turn: 14 end
+turn: 15 end
+insert_to: 1, len: 5
+turn: 16 end
+turn: 17 end
+insert_to: 6, len: 6
+turn: 17, n_sample: 8
+turn: 18 end
+turn: 19 end
+insert_to: 5, len: 5
+turn: 20 end
+turn: 21 end
+turn: 22 end
+insert_to: 0, len: 6
+turn: 22, n_sample: 20
+turn: 23 end
+turn: 24 end
+insert_to: 2, len: 5
+turn: 25 end
+turn: 26 end
+turn: 27 end
+insert_to: 5, len: 6
+turn: 27, n_sample: 5
+turn: 28 end
+turn: 29 end
+turn: 30 end
+insert_to: 0, len: 5
+turn: 31 end
+turn: 32 end
+insert_to: 6, len: 6
+turn: 32, n_sample: 8
+turn: 33 end
+turn: 34 end
+insert_to: 5, len: 5
+turn: 35 end
+turn: 36 end
+turn: 37 end
+insert_to: 0, len: 6
+turn: 37, n_sample: 21
+turn: 38 end
+turn: 39 end
+insert_to: 5, len: 5
+turn: 40 end
+turn: 41 end
+turn: 42 end
+insert_to: 0, len: 6
+turn: 42, n_sample: 27
+turn: 43 end
+turn: 44 end
+insert_to: 5, len: 5
+turn: 45 end
+turn: 46 end
+turn: 47 end
+insert_to: 0, len: 6
+turn: 47, n_sample: 30
+turn: 48 end
+turn: 49 end
+insert_to: 2, len: 5
+turn: 50 end
+turn: 51 end
+turn: 52 end
+insert_to: 3, len: 6
+turn: 52, n_sample: 30
+turn: 53 end
+turn: 54 end
+insert_to: 2, len: 5
+turn: 55 end
+turn: 56 end
+turn: 57 end
+insert_to: 5, len: 6
+turn: 57, n_sample: 11
+turn: 58 end
+turn: 59 end
+insert_to: 5, len: 5
+turn: 60 end
+turn: 61 end
+turn: 62 end
+insert_to: 0, len: 6
+turn: 62, n_sample: 17
+turn: 63 end
+turn: 64 end
+insert_to: 5, len: 5
+turn: 65 end
+turn: 66 end
+turn: 67 end
+insert_to: 0, len: 6
+turn: 67, n_sample: 23
+turn: 68 end
+turn: 69 end
+insert_to: 5, len: 5
+turn: 70 end
+turn: 71 end
+turn: 72 end
+insert_to: 0, len: 6
+turn: 72, n_sample: 29
+turn: 73 end
+turn: 74 end
+insert_to: 5, len: 5
+turn: 75 end
+turn: 76 end
+turn: 77 end
+insert_to: 0, len: 6
+turn: 77, n_sample: 36
+turn: 78 end
+turn: 79 end
+insert_to: 5, len: 5
+turn: 80 end
+turn: 81 end
+turn: 82 end
+insert_to: 0, len: 6
+turn: 82, n_sample: 40
+turn: 83 end
+turn: 84 end
+insert_to: 5, len: 5
+turn: 85 end
+turn: 86 end
+turn: 87 end
+insert_to: 0, len: 6
+turn: 87, n_sample: 42
+turn: 88 end
+turn: 89 end
+insert_to: 5, len: 5
+turn: 90 end
+turn: 91 end
+turn: 92 end
+insert_to: 0, len: 6
+turn: 92, n_sample: 43
+turn: 93 end
+turn: 94 end
+insert_to: 5, len: 5
+turn: 95 end
+turn: 96 end
+turn: 97 end
+insert_to: 0, len: 6
+turn: 97, n_sample: 48
+turn: 98 end
+turn: 99 end
+insert_to: 5, len: 5
+turn: 100 end
+turn: 101 end
+turn: 102 end
+insert_to: 0, len: 6
+turn: 102, n_sample: 50
+turn: 103 end
+turn: 104 end
+insert_to: 5, len: 5
+turn: 105 end
+turn: 106 end
+turn: 107 end
+insert_to: 0, len: 6
+turn: 107, n_sample: 55
+turn: 108 end
+turn: 109 end
+insert_to: 5, len: 5
+turn: 110 end
+turn: 111 end
+turn: 112 end
+insert_to: 0, len: 6
+turn: 112, n_sample: 68
+turn: 113 end
+turn: 114 end
+insert_to: 5, len: 5
+turn: 115 end
+turn: 116 end
+turn: 117 end
+insert_to: 0, len: 6
+turn: 117, n_sample: 81
+turn: 118 end
+turn: 119 end
+insert_to: 5, len: 5
+turn: 120 end
+turn: 121 end
+turn: 122 end
+insert_to: 0, len: 6
+turn: 122, n_sample: 88
+turn: 123 end
+turn: 124 end
+insert_to: 5, len: 5
+turn: 125 end
+turn: 126 end
+turn: 127 end
+insert_to: 0, len: 6
+turn: 127, n_sample: 98
+turn: 128 end
+turn: 129 end
+insert_to: 5, len: 5
+turn: 130 end
+turn: 131 end
+turn: 132 end
+insert_to: 0, len: 6
+turn: 132, n_sample: 100
+turn: 133 end
+turn: 134 end
+insert_to: 5, len: 5
+turn: 135 end
+turn: 136 end
+turn: 137 end
+insert_to: 0, len: 6
+turn: 137, n_sample: 100
+turn: 138 end
+turn: 139 end
+insert_to: 5, len: 5
+turn: 140 end
+turn: 141 end
+turn: 142 end
+insert_to: 0, len: 6
+turn: 142, n_sample: 100
+turn: 143 end
+turn: 144 end
+insert_to: 5, len: 5
+turn: 145 end
+turn: 146 end
+turn: 147 end
+insert_to: 0, len: 6
+turn: 147, n_sample: 100
+turn: 148 end
+turn: 149 end
+insert_to: 5, len: 5
+turn: 150 end
+turn: 151 end
+turn: 152 end
+insert_to: 0, len: 6
+turn: 152, n_sample: 100
+turn: 153 end
+turn: 154 end
+insert_to: 5, len: 5
+turn: 155 end
+turn: 156 end
+turn: 157 end
+insert_to: 0, len: 6
+turn: 157, n_sample: 100
+turn: 158 end
+turn: 159 end
+insert_to: 5, len: 5
+turn: 160 end
+turn: 161 end
+turn: 162 end
+insert_to: 0, len: 6
+turn: 162, n_sample: 100
+turn: 163 end
+turn: 164 end
+insert_to: 5, len: 5
+turn: 165 end
+turn: 166 end
+turn: 167 end
+insert_to: 0, len: 6
+turn: 167, n_sample: 100
+turn: 168 end
+turn: 169 end
+insert_to: 5, len: 5
+turn: 170 end
+turn: 171 end
+turn: 172 end
+insert_to: 0, len: 6
+turn: 172, n_sample: 100
+turn: 173 end
+turn: 174 end
+insert_to: 5, len: 5
+turn: 175 end
+turn: 176 end
+turn: 177 end
+insert_to: 0, len: 6
+turn: 177, n_sample: 100
+turn: 178 end
+turn: 179 end
+insert_to: 5, len: 5
+turn: 180 end
+turn: 181 end
+turn: 182 end
+insert_to: 0, len: 6
+turn: 182, n_sample: 100
+turn: 183 end
+turn: 184 end
+insert_to: 5, len: 5
+turn: 185 end
+turn: 186 end
+turn: 187 end
+insert_to: 0, len: 6
+turn: 187, n_sample: 100
+turn: 188 end
+turn: 189 end
+insert_to: 5, len: 5
+turn: 190 end
+turn: 191 end
+turn: 192 end
+insert_to: 0, len: 6
+turn: 192, n_sample: 100
+turn: 193 end
+turn: 194 end
+insert_to: 5, len: 5
+turn: 195 end
+turn: 196 end
+turn: 197 end
+insert_to: 0, len: 6
+turn: 197, n_sample: 100
+turn: 198 end
+turn: 199 end
+insert_to: 5, len: 5
+turn: 200 end
+turn: 201 end
+turn: 202 end
+insert_to: 0, len: 6
+turn: 202, n_sample: 100
+turn: 203 end
+turn: 204 end
+insert_to: 5, len: 5
+turn: 205 end
+turn: 206 end
+turn: 207 end
+insert_to: 0, len: 6
+turn: 207, n_sample: 100
+turn: 208 end
+turn: 209 end
+insert_to: 5, len: 5
+turn: 210 end
+turn: 211 end
+turn: 212 end
+insert_to: 0, len: 6
+turn: 212, n_sample: 100
+turn: 213 end
+turn: 214 end
+insert_to: 5, len: 5
+turn: 214, n_sample: 100
+0.899784584
+Score = 5199634

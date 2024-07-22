@@ -1,0 +1,44 @@
+    Finished release [optimized] target(s) in 0.56s
+     Running `target/release/tester ../target/release/ahc022_a`
+rawscore = 414544812
+rawscore = 372363546
+rawscore = 423312442
+rawscore = 388815556
+rawscore = 374528224
+rawscore = 362747322
+rawscore = 440914200
+rawscore = 379688258
+rawscore = 378681898
+rawscore = 391881380
+rawscore = 383323874
+rawscore = 385659238
+rawscore = 404102618
+rawscore = 371118204
+rawscore = 353600686
+rawscore = 408891202
+rawscore = 398867866
+rawscore = 414313538
+rawscore = 391450156
+rawscore = 391374784
+rawscore = 413230200
+rawscore = 386725526
+rawscore = 368257922
+rawscore = 396905866
+rawscore = 363820578
+rawscore = 416363084
+rawscore = 405202544
+rawscore = 380620914
+rawscore = 380837166
+rawscore = 383140508
+rawscore = 394193388
+rawscore = 402143716
+rawscore = 374185404
+rawscore = 412538186
+Number of overlap final = 0
+x = 342
+6.044235044
+Score = 560994
+Number of wrong answers = 0
+Placement cost = 165436634
+Measurement cost = 12718500
+Measurement count = 10000

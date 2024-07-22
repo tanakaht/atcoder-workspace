@@ -1,0 +1,18 @@
+    Blocking waiting for file lock on build directory
+    Finished release [optimized] target(s) in 0.86s
+     Running `target/release/tester ../target/release/ahc022_a`
+rawscore = 423595726
+rawscore = 413861106
+rawscore = 429654776
+rawscore = 404081798
+rawscore = 411832388
+rawscore = 412766108
+rawscore = 415438528
+Number of overlap final = 0
+x = 279
+7.610063544
+Score = 722884
+Number of wrong answers = 0
+Placement cost = 125817418
+Measurement cost = 12417400
+Measurement count = 10000

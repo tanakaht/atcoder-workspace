@@ -1,0 +1,23 @@
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Finished release [optimized] target(s) in 1.41s
+     Running `target/release/tester ../target/release/ahc022_a`
+rawscore = 359497722
+rawscore = 372813324
+rawscore = 372950816
+rawscore = 378754178
+rawscore = 361757944
+rawscore = 352089086
+rawscore = 346320782
+rawscore = 351646334
+rawscore = 378424698
+rawscore = 387484908
+rawscore = 366698542
+Number of overlap final = 0
+x = 123
+7.563446794
+Score = 3151424
+Number of wrong answers = 0
+Placement cost = 22481694
+Measurement cost = 9150000
+Measurement count = 7634

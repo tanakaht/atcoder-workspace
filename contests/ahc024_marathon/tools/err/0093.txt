@@ -1,0 +1,6 @@
+simanneal start at 0.000431
+===== simanneal =====
+all iter   : 859702
+accepted   : 65998
+score  : 2110
+

@@ -1,0 +1,300 @@
+move 159
+move 159
+move 159
+move 159
+move 159
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 65
+execute 49 33
+move 175
+move 175
+move 175
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 65
+execute 426 61
+move 160
+move 160
+move 160
+move 160
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 65
+execute 108 59
+move 648
+move 648
+move 648
+move 648
+execute 395 65
+execute 395 65
+execute 395 65
+execute 395 65
+execute 395 65
+execute 395 65
+execute 395 65
+execute 395 65
+execute 395 11
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+move 173
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 65
+execute 47 2
+move 110
+move 110
+move 110
+move 110
+move 110
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 65
+execute 484 61
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 65
+execute 308 30
+move 281
+move 281
+move 281
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 65
+execute 290 27
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+move 89
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 65
+execute 449 64
+move 522
+move 522
+move 522
+move 522
+move 522
+execute 156 65
+execute 156 65
+execute 156 65
+execute 156 65
+execute 156 65
+execute 156 65
+execute 156 65
+execute 156 62
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+move 319
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 65
+execute 161 17
+move 488
+move 488
+move 488
+move 488
+move 488
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 65
+execute 211 41
+move 114
+move 114
+move 114
+move 114
+move 114
+move 114
+move 114
+execute 56 65
+execute 56 65
+execute 56 65
+execute 56 65
+execute 56 65
+execute 56 65

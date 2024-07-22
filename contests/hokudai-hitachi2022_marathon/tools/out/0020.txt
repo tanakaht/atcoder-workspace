@@ -1,0 +1,300 @@
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+move 730
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 38
+execute 189 7
+move 723
+move 723
+move 723
+move 723
+move 723
+move 723
+move 723
+move 723
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 38
+execute 249 34
+move 362
+move 362
+move 362
+move 362
+move 362
+move 362
+move 362
+move 362
+move 362
+move 362
+move 362
+move 362
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 38
+execute 164 4
+move 484
+move 484
+move 484
+move 484
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 38
+execute 180 2
+move 498
+move 498
+move 498
+move 498
+move 498
+move 498
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+execute 109 38
+move 506
+move 506
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 38
+execute 81 20
+move 512
+move 512
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 38
+execute 37 13
+move 498
+move 498
+move 498
+move 498
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 38
+execute 175 21
+move 365
+move 365
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay

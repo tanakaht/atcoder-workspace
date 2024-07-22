@@ -1,0 +1,8 @@
+simanneal start at 0.469603208
+802100 10 92 1
+802100 12 94 3
+===== simanneal =====
+all iter   : 32
+accepted   : 2
+score  : 802100
+

@@ -1,0 +1,63 @@
+    Finished release [optimized] target(s) in 0.11s
+     Running `target/release/tester ../target/release/ahc035_a`
+simanneal start at 0.236718625
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 20643220465.096546
+
+simanneal start at 0.567010042
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 4326562285.335177
+
+simanneal start at 0.818842875
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 468405288.11697006
+
+simanneal start at 1.025179167
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 359090695.9750521
+
+simanneal start at 1.267942626
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 350850533.84971344
+
+simanneal start at 1.515131459
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 64621314.80459982
+
+simanneal start at 1.801800918
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 27280.22715419023
+
+simanneal start at 2.083326668
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 27334.468466927734
+
+simanneal start at 2.535727418
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 20347338044801363000000000000
+
+simanneal start at 2.982037418
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 17469670732468131000000000000
+
+Score = 810989

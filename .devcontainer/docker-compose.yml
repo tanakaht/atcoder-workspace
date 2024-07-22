@@ -4,6 +4,9 @@ services:
     build:
       context: ../
       dockerfile: .devcontainer/Dockerfile
+    security_opt:
+      - seccomp:unconfined
+      # - seccomp:seccomp.json
     volumes:
       - ../:/workspace:cached
     command: /bin/sh -c "while sleep 1000; do :; done"

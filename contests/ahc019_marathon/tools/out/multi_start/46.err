@@ -1,0 +1,25 @@
+simanneal start at 0.00448075
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+
+simanneal start at 0.0177065
+===== simanneal =====
+all iter   : 4468
+accepted   : 447
+
+simanneal start at 1.104971209
+===== simanneal =====
+all iter   : 5950
+accepted   : 448
+
+simanneal start at 2.203392168
+===== simanneal =====
+all iter   : 9131
+accepted   : 87
+
+simanneal start at 3.304342668
+===== simanneal =====
+all iter   : 9916
+accepted   : 150
+

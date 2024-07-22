@@ -1,0 +1,53 @@
+    Blocking waiting for file lock on build directory
+    Finished release [optimized] target(s) in 0.64s
+     Running `target/release/tester ../target/release/ahc30_a`
+turn: 0
+start_solve_problem 3*3
+n_candidate_aft: 1000
+turn: 1
+start_solve_problem 6*4
+n_candidate_aft: 1000
+turn: 2
+start_solve_problem 6*4
+n_candidate_aft: 1000
+turn: 3
+start_solve_problem 12*5
+n_candidate_aft: 1000
+turn: 4
+start_solve_problem 19*6
+n_candidate_aft: 120
+turn: 5
+start_solve_problem 32*7
+n_candidate_aft: 60
+turn: 6
+start_solve_problem 32*7
+n_candidate_aft: 14
+turn: 7
+start_solve_problem 43*8
+n_candidate_aft: 60
+turn: 8
+start_solve_problem 55*9
+n_candidate_aft: 99
+turn: 9
+start_solve_problem 67*10
+n_candidate_aft: 27
+turn: 10
+start_solve_problem 79*11
+n_candidate_aft: 10
+turn: 11
+start_solve_problem 87*12
+n_candidate_aft: 14
+turn: 12
+start_solve_problem 91*13
+n_candidate_aft: 5
+turn: 13
+start_solve_problem 57*14
+n_candidate_aft: 2
+start_solve_problem 55*14
+n_candidate_aft2: 2
+turn: 14
+start_solve_problem 54*14
+n_candidate_aft: 1
+start_solve_problem 54*14
+n_candidate_aft2: 1
+Score = 14000000

@@ -1,0 +1,700 @@
+move 545
+move 545
+move 545
+move 545
+move 545
+move 545
+move 545
+move 545
+move 545
+move 545
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 36
+execute 10 11
+move 238
+move 238
+move 238
+move 238
+move 238
+move 238
+move 238
+move 238
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 36
+execute 230 26
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 36
+execute 231 26
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+move 597
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 36
+execute 195 2
+stay
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+move 215
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 36
+execute 189 2
+move 169
+move 169
+move 169
+move 169
+move 169
+move 169
+move 169
+move 169
+move 169
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 36
+execute 109 30
+move 170
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 36
+execute 183 31
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+move 16
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 36
+execute 206 5
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+move 142
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 36
+execute 173 25
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+move 76
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 36
+execute 118 7
+move 45
+move 45
+move 45
+move 45
+move 45
+move 45
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 36
+execute 65 10
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+move 499
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 36
+execute 145 33
+stay
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+move 41
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 36
+execute 146 27
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+move 141
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 36
+execute 18 23
+move 125
+move 125
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 36
+execute 79 33
+move 197
+move 197
+move 197
+move 197
+move 197
+move 197
+move 197
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 36
+execute 170 15
+move 187
+move 187
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay
+stay

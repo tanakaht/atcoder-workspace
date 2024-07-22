@@ -1,0 +1,7 @@
+simanneal start at 0.483038584
+743600 9 10 1
+===== simanneal =====
+all iter   : 11
+accepted   : 1
+score  : 743600
+

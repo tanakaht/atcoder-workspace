@@ -1,0 +1,15 @@
+simanneal start at 0.001341958
+===== simanneal =====
+all iter   : 748
+accepted   : 307
+score  : 77
+simanneal start at 0.943493667
+===== simanneal =====
+all iter   : 692
+accepted   : 182
+score  : 77
+simanneal start at 1.868530459
+===== simanneal =====
+all iter   : 698
+accepted   : 177
+score  : 77

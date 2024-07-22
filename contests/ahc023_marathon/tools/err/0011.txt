@@ -1,0 +1,9 @@
+simanneal start at 0.464012875
+800725 4 92 1
+800775 8 97 1
+800775 17 98 4
+===== simanneal =====
+all iter   : 22
+accepted   : 3
+score  : 800775
+

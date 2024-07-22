@@ -1,0 +1,8 @@
+et: 0.096278375
+simanneal start at 0.14731875
+===== simanneal =====
+all iter   : 117700
+accepted   : 2226
+score  : 10894306.102472348
+
+cnt: 2954

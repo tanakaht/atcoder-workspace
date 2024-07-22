@@ -63,16 +63,23 @@ elif [ "$type" = "marathon" ]; then
   templatedir=templates/template_marathon
   # testcases 削除
   rm -rf ${contest_dir}/testcases
+  rm -rf ${contest_dir}/src
+  mkdir ${contest_dir}/src_py
+  mkdir ${contest_dir}/src_rust
   # srcファイル作成
-  cp ${templatedir}/src/sample.py ${contest_dir}/src/${contest_name}_a.py
-  cp ${templatedir}/src/experiment.ipynb ${contest_dir}/src/experiment.ipynb
+  cp ${templatedir}/src_py/sample.py ${contest_dir}/src_py/${contest_name}_a.py
+  cp ${templatedir}/src_py/experiment.ipynb ${contest_dir}/src_py/experiment.ipynb
+  cp ${templatedir}/src_rust/sample.rs ${contest_dir}/src_rust/${contest_name}_a.rs
+  # cargo
+  sed "s/<CONTESTNAME>/${contest_name}/g" ${templatedir}/Cargo_a2h.toml > ${contest_dir}/Cargo.toml
+  sed "s/<CONTESTNAME>/${contest_name}/g" ${templatedir}/Cargo.lock > ${contest_dir}/Cargo.lock
   # results作成
   mkdir ${contest_dir}/results
   cp ${templatedir}/results/results.md ${contest_dir}/results/results.md
 
   # scriptコピー
   mkdir ${contest_dir}/scripts
-  for f in "test.sh" "test_all.sh" "submit.sh" "format_score.py"; do
+  for f in "test_py.sh" "test_all_py.sh" "test_rust.sh" "test_all_rust.sh" "submit.sh" "format_score.py"; do
     sed "s/<CONTESTNAME>/${contest_name}/g" ${templatedir}/scripts/${f} > ${contest_dir}/scripts/${f}
     chmod 744 ${contest_dir}/scripts/${f}
   done

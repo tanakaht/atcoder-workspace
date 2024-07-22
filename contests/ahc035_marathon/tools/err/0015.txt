@@ -1,0 +1,64 @@
+    Blocking waiting for file lock on build directory
+    Finished release [optimized] target(s) in 0.33s
+     Running `target/release/tester ../target/release/ahc035_a`
+simanneal start at 0.599585751
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 17512287378.362617
+
+simanneal start at 0.821211667
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 4602903245.097152
+
+simanneal start at 1.039637792
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 1590218397.6209183
+
+simanneal start at 1.249810626
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 1609190034.9021757
+
+simanneal start at 1.439816834
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 652750421.6786186
+
+simanneal start at 1.6187462510000001
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 386058888.3490101
+
+simanneal start at 1.925007918
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 33428.77971323139
+
+simanneal start at 2.162198085
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 29071.186992894516
+
+simanneal start at 2.461332085
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 110140898746143780000000000000
+
+simanneal start at 2.770426418
+===== simanneal =====
+all iter   : 0
+accepted   : 0
+score  : 27298858903872960000000000000
+
+Score = 775635

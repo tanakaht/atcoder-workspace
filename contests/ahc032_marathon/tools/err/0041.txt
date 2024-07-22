@@ -1,0 +1,4 @@
+start
+score: 75709583629
+rank: 49
+time elasped8.079911963

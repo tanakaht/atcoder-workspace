@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "Rust Debug Launch",
+          "type": "lldb",
+          "request": "launch",
+          "program": "${workspaceRoot}/target/debug/ahc035_a",
+          "args": [],
+          "cwd": "${workspaceRoot}/target/debug/",
+          "stdio": ["${workspaceRoot}/tools/in/0000.txt", "${workspaceRoot}/tools/out/0000.txt"],
+          "sourceLanguages": ["rust"]
+      },
+  ],
+}

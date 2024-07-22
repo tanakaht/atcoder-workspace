@@ -1,0 +1,64 @@
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on build directory
+    Finished release [optimized] target(s) in 0.55s
+     Running `target/release/tester ../target/release/ahc30_a`
+turn: 0
+start_solve_problem 2*2
+n_candidate_aft: 1000
+turn: 1
+start_solve_problem 2*2
+n_candidate_aft: 1000
+turn: 2
+start_solve_problem 4*3
+n_candidate_aft: 0
+start_solve_problem 4*3
+n_candidate_aft2: 540
+turn: 3
+start_solve_problem 4*3
+n_candidate_aft: 0
+start_solve_problem 4*3
+n_candidate_aft2: 352
+turn: 4
+start_solve_problem 4*3
+n_candidate_aft: 0
+start_solve_problem 4*3
+n_candidate_aft2: 110
+turn: 5
+start_solve_problem 8*4
+n_candidate_aft: 0
+start_solve_problem 8*4
+n_candidate_aft2: 90
+turn: 6
+start_solve_problem 14*5
+n_candidate_aft: 0
+start_solve_problem 14*5
+n_candidate_aft2: 26
+turn: 7
+start_solve_problem 13*5
+n_candidate_aft: 0
+start_solve_problem 13*5
+n_candidate_aft2: 10
+turn: 8
+start_solve_problem 13*5
+n_candidate_aft: 15
+turn: 9
+start_solve_problem 14*6
+n_candidate_aft: 9
+turn: 10
+start_solve_problem 6*6
+n_candidate_aft: 3
+start_solve_problem 5*6
+n_candidate_aft2: 3
+turn: 11
+start_solve_problem 5*6
+n_candidate_aft: 2
+start_solve_problem 5*6
+n_candidate_aft2: 2
+turn: 12
+start_solve_problem 6*7
+n_candidate_aft: 1
+start_solve_problem 6*7
+n_candidate_aft2: 1
+Score = 12000000

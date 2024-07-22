@@ -1,0 +1,5000 @@
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+move 624
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 87
+move 517
+move 755
+move 29
+move 275
+execute 207 70
+move 517
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+move 206
+execute 20 39
+execute 59 37
+move 29
+move 275
+execute 152 87
+execute 20 39
+execute 59 37
+move 29
+move 275
+execute 152 87
+execute 20 39
+execute 59 37
+move 29
+move 275
+execute 152 87
+execute 20 39
+execute 59 37
+move 29
+move 275
+execute 152 87
+execute 20 39
+execute 59 37
+move 29
+move 275
+execute 152 87
+execute 20 39
+execute 59 37
+move 29
+move 275
+execute 152 87
+execute 20 24
+execute 59 37
+move 29
+move 275
+execute 152 87
+move 24
+execute 59 37
+move 29
+move 275
+execute 152 87
+move 24
+execute 59 37
+move 29
+move 275
+execute 152 87
+move 24
+execute 59 37
+move 29
+move 275
+execute 152 87
+move 24
+execute 59 30
+move 29
+move 275
+execute 152 87
+move 24
+move 96
+move 29
+move 275
+execute 152 87
+move 24
+move 96
+move 29
+move 275
+execute 152 87
+move 24
+move 96
+move 29
+execute 474 95
+execute 152 87
+move 24
+move 96
+move 29
+execute 474 95
+execute 152 87
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+execute 152 87
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+execute 152 87
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+execute 152 19
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 95
+move 113
+execute 209 39
+execute 58 37
+move 29
+execute 474 21
+move 113
+execute 209 39
+execute 58 37
+move 29
+move 338
+move 113
+execute 209 39
+execute 58 37
+move 29
+move 338
+move 113
+execute 209 5
+execute 58 37
+move 29
+move 338
+move 113
+move 701
+execute 58 37
+move 29
+move 338
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 87
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+execute 21 63
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+move 283
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+move 283
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+move 283
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+move 283
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+move 283
+move 701
+execute 58 37
+execute 342 44
+execute 230 95
+move 283
+move 701
+execute 58 31
+execute 342 44
+execute 230 6
+move 283
+move 701
+move 641
+execute 342 44
+move 50
+move 283
+move 701
+move 641
+execute 342 44
+move 50
+execute 350 87
+move 701
+move 641
+execute 342 44
+execute 66 95
+execute 350 87
+move 701
+move 641
+execute 342 44
+execute 66 95
+execute 350 87
+move 701
+move 641
+execute 342 44
+execute 66 95
+execute 350 87
+move 701
+move 641
+execute 342 44
+execute 66 95
+execute 350 87
+execute 456 39
+move 641
+execute 342 44
+execute 66 95
+execute 350 87
+execute 456 39
+move 641
+execute 342 44
+execute 66 95
+execute 350 87
+execute 456 39
+move 641
+execute 342 44
+execute 66 95
+execute 350 3
+execute 456 39
+move 641
+execute 342 44
+execute 66 95
+move 245
+execute 456 39
+move 641
+execute 342 44
+execute 66 95
+move 245
+execute 456 39
+move 641
+execute 342 44
+execute 66 95
+move 245
+execute 456 39
+move 641
+execute 342 44
+execute 66 66
+execute 492 87
+execute 456 39
+move 641
+execute 342 44
+move 647
+execute 492 87
+execute 456 39
+move 641
+execute 342 44
+move 647
+execute 492 87
+execute 456 39
+move 641
+execute 342 44
+move 647
+execute 492 87
+execute 456 39
+move 641
+execute 342 44
+move 647
+execute 492 87
+execute 456 39
+move 641
+execute 342 42
+move 647
+execute 492 87
+execute 456 39
+move 641
+move 664
+move 647
+execute 492 87
+execute 456 39
+move 641
+move 664
+move 647
+execute 492 87
+execute 456 39
+move 641
+move 664
+move 647
+execute 492 75
+execute 456 39
+move 641
+move 664
+move 647
+move 49
+execute 456 39
+move 641
+move 664
+move 647
+move 49
+execute 456 39
+move 641
+move 664
+move 647
+move 49
+execute 456 39
+move 641
+execute 45 44
+move 647
+move 49
+execute 456 39
+move 641
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 39
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+execute 456 27
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+move 680
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+move 680
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+move 680
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+move 680
+execute 165 37
+execute 45 44
+move 647
+execute 325 87
+move 680
+execute 165 37
+execute 45 14
+move 647
+execute 325 87
+move 680
+execute 165 37
+move 661
+move 647
+execute 325 66
+move 680
+execute 165 37
+move 661
+move 647
+move 337
+move 680
+execute 165 37
+move 661
+move 647
+move 337
+move 680
+execute 165 37
+move 661
+move 647
+move 337
+move 680
+execute 165 37
+move 661
+execute 482 95
+move 337
+execute 261 39
+execute 165 37
+move 661
+execute 482 95
+execute 167 87
+execute 261 39
+execute 165 37
+move 661
+execute 482 95
+execute 167 87
+execute 261 39
+execute 165 37
+move 661
+execute 482 95
+execute 167 87
+execute 261 39
+execute 165 37
+move 661
+execute 482 95
+execute 167 87
+execute 261 39
+execute 165 37
+move 661
+execute 482 95
+execute 167 87
+execute 261 39
+execute 165 4
+execute 284 44
+execute 482 95
+execute 167 87
+execute 261 39
+move 340
+execute 284 44
+execute 482 95
+execute 167 87
+execute 261 39
+move 340
+execute 284 44
+execute 482 95
+execute 167 87
+execute 261 39
+move 340
+execute 284 44
+execute 482 67
+execute 167 87
+execute 261 39
+move 340
+execute 284 44
+move 628
+execute 167 87
+execute 261 39
+move 340
+execute 284 44
+move 628
+execute 167 75
+execute 261 39
+move 340
+execute 284 44
+move 628
+move 475
+execute 261 39
+move 340
+execute 284 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 284 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 284 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 284 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 284 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 284 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 284 33
+move 628
+move 475
+execute 261 39
+execute 387 37
+move 767
+move 628
+move 475
+execute 261 39
+execute 387 37
+move 767
+move 628
+move 475
+execute 261 39
+execute 387 37
+move 767
+move 628
+move 475
+execute 261 39
+execute 387 37
+move 767
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 290 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 290 44
+move 628
+move 475
+execute 261 39
+execute 387 37
+execute 290 44
+move 628
+move 475
+execute 261 25
+execute 387 37
+execute 290 44
+move 628
+move 475
+move 110
+execute 387 37
+execute 290 44
+move 628
+move 475
+move 110
+execute 387 37
+execute 290 44
+move 628
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+move 475
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+execute 414 87
+move 110
+execute 387 37
+execute 290 44
+execute 90 95
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 44
+execute 90 95
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 44
+execute 90 95
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 44
+execute 90 95
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 44
+execute 90 95
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 44
+execute 90 33
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 44
+move 570
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 44
+move 570
+execute 414 87
+execute 85 39
+execute 387 37
+execute 290 35
+move 570
+execute 414 87
+execute 85 39
+execute 387 37
+stay
+execute 163 95
+execute 414 6
+execute 85 39
+execute 387 37
+move 348
+execute 163 95
+move 72
+execute 85 39
+execute 387 37
+move 348
+execute 163 95
+execute 187 87
+execute 85 39
+execute 387 37
+move 348
+execute 163 95
+execute 187 87
+execute 85 39
+execute 387 19
+move 348
+execute 163 95
+execute 187 87
+execute 85 39
+move 630
+move 348
+execute 163 87
+execute 187 87
+execute 85 39
+move 630
+move 348
+move 660
+execute 187 87
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+execute 187 87
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+execute 187 87
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+execute 187 87
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+execute 187 87
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+execute 187 42
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 37
+execute 222 44
+move 660
+move 428
+execute 85 39
+execute 315 28
+execute 222 44
+move 660
+execute 366 87
+execute 85 39
+move 649
+execute 222 44
+move 660
+execute 366 87
+execute 85 39
+move 649
+execute 222 44
+move 660
+execute 366 87
+execute 85 39
+move 649
+execute 222 44
+move 660
+execute 366 87
+execute 85 39
+move 649
+execute 222 44
+move 660
+execute 366 87
+execute 85 39
+move 649
+execute 222 44
+execute 292 95
+execute 366 87
+execute 85 39
+move 649
+execute 222 44
+execute 292 95
+execute 366 87
+execute 85 19
+move 649
+execute 222 44
+execute 292 95
+execute 366 87
+move 219
+move 649
+execute 222 44
+execute 292 95
+execute 366 87
+move 219
+move 649
+execute 222 44
+execute 292 95
+execute 366 87
+move 219
+move 649
+execute 222 44
+execute 292 95
+execute 366 87
+move 219
+move 649
+execute 222 44
+execute 292 95
+execute 366 87
+move 219
+move 649
+execute 222 44
+execute 292 30
+execute 366 86
+move 219
+move 649
+execute 222 44
+move 115
+move 199
+move 219
+execute 377 37
+execute 222 44
+move 115
+execute 452 87
+move 219
+execute 377 37
+move 358
+move 115
+execute 452 87
+move 219
+execute 377 37
+move 358
+move 115
+execute 452 87
+move 219
+execute 377 37
+move 358
+move 115
+execute 452 87
+move 219
+execute 377 37
+move 358
+move 115
+execute 452 87
+move 219
+execute 377 37
+move 358
+move 115
+execute 452 87
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+execute 452 87
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+execute 452 87
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+execute 452 87
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+execute 452 87
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+execute 452 16
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+move 494
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+move 494
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+move 494
+execute 96 39
+execute 377 37
+execute 362 44
+execute 113 95
+move 494
+execute 96 39
+execute 377 30
+execute 362 44
+execute 113 95
+execute 291 87
+execute 96 39
+move 881
+execute 362 44
+execute 113 95
+execute 291 87
+execute 96 39
+move 881
+execute 362 44
+execute 113 95
+execute 291 87
+execute 96 39
+move 881
+execute 362 43
+execute 113 95
+execute 291 87
+execute 96 39
+move 881
+move 624
+execute 113 95
+execute 291 87
+execute 96 39
+move 881
+move 624
+execute 113 69
+execute 291 87
+execute 96 39
+move 881
+move 624
+move 848
+execute 291 87
+execute 96 39
+move 881
+execute 189 44
+move 848
+execute 291 87
+execute 96 39
+move 881
+execute 189 44
+move 848
+execute 291 87
+execute 96 39
+move 881
+execute 189 44
+move 848
+execute 291 87
+execute 96 39
+move 881
+execute 189 44
+move 848
+execute 291 87
+execute 96 39
+move 881
+execute 189 44
+move 848
+execute 291 87
+execute 96 27
+move 881
+execute 189 44
+move 848
+execute 291 87
+move 263
+move 881
+execute 189 44
+move 848
+execute 291 87
+move 263
+move 881
+execute 189 44
+move 848
+execute 291 87
+move 263
+move 881
+execute 189 44
+move 848
+execute 291 87
+move 263
+move 881
+execute 189 44
+move 848
+execute 291 87
+move 263
+move 881
+execute 189 44
+move 848
+execute 291 15
+move 263
+move 881
+execute 189 44
+move 848
+move 351
+move 263
+move 881
+execute 189 44
+move 848
+move 351
+move 263
+move 881
+execute 189 44
+move 848
+move 351
+move 263
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 189 30
+move 848
+move 351
+execute 488 39
+move 881
+execute 237 44
+move 848
+move 351
+execute 488 39
+move 881
+execute 237 44
+move 848
+move 351
+execute 488 32
+move 881
+execute 237 44
+move 848
+move 351
+move 451
+move 881
+execute 237 44
+move 848
+move 351
+move 451
+move 881
+execute 237 44
+move 848
+move 351
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+move 881
+execute 237 44
+move 848
+execute 363 87
+move 451
+execute 392 37
+execute 237 44
+execute 30 95
+execute 363 87
+move 451
+execute 392 37
+execute 237 44
+execute 30 95
+execute 363 87
+move 451
+execute 392 37
+execute 237 44
+execute 30 95
+execute 363 87
+move 451
+execute 392 37
+execute 237 42
+execute 30 95
+execute 363 87
+move 451
+execute 392 37
+move 434
+execute 30 95
+execute 363 87
+move 451
+execute 392 37
+move 434
+execute 30 95
+execute 363 15
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+move 313
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+move 313
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+move 313
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+move 313
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+execute 30 95
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+execute 30 49
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 199 84
+move 451
+execute 392 37
+execute 242 44
+move 554
+move 468
+move 451
+execute 392 37
+execute 242 44
+move 554
+move 468
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 486 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 486 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 486 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 486 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 486 87
+move 451
+execute 392 37
+execute 242 44
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+execute 242 29
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+move 551
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+move 551
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+move 551
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+move 551
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+move 551
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+execute 72 44
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+execute 72 44
+move 554
+execute 486 87
+execute 22 39
+execute 392 37
+execute 72 44
+move 554
+execute 486 87
+execute 22 39
+execute 392 1
+execute 72 44
+move 554
+execute 486 87
+execute 22 39
+move 885
+execute 72 44
+move 554
+execute 486 69
+execute 22 39
+move 885
+execute 72 44
+move 554
+move 302
+execute 22 39
+move 885
+execute 72 44
+move 554
+move 302
+execute 22 39
+move 885
+execute 72 44
+move 554
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+move 885
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+execute 61 37
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+execute 61 37
+execute 72 44
+execute 265 95
+move 302
+execute 22 39
+execute 61 37
+execute 72 43
+execute 265 95
+move 302
+execute 22 39
+execute 61 37
+move 35
+execute 265 51
+move 302
+execute 22 39
+execute 61 37
+move 35
+move 224
+move 302
+execute 22 39
+execute 61 37
+move 35
+move 224
+move 302
+execute 22 39
+execute 61 37
+move 35
+execute 468 95
+move 302
+execute 22 39
+execute 61 37
+move 35
+execute 468 95
+move 302
+execute 22 39
+execute 61 37
+move 35
+execute 468 95
+move 302
+execute 22 39
+execute 61 37
+move 35
+execute 468 95
+execute 496 87
+execute 22 39
+execute 61 37
+move 35
+execute 468 95
+execute 496 87
+execute 22 36
+execute 61 37
+move 35
+execute 468 95
+execute 496 87
+move 253
+execute 61 37
+move 35
+execute 468 27
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 87
+move 253
+execute 61 37
+move 35
+move 519
+execute 496 23
+move 253
+execute 61 37
+move 35
+move 519
+move 697
+move 253
+execute 61 37
+move 35
+move 519
+move 697
+move 253
+execute 61 37
+move 35
+execute 408 95
+move 697
+move 253
+execute 61 37
+move 35
+execute 408 95
+move 697
+move 253
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+move 253
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+execute 61 37
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+execute 61 16
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+move 750
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+move 750
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+move 750
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+move 750
+execute 201 44
+execute 408 95
+move 697
+execute 330 39
+move 750
+execute 201 44
+execute 408 72
+move 697
+execute 330 39
+move 750
+execute 201 44
+move 516
+move 697
+execute 330 39
+move 750
+execute 201 44
+move 516
+execute 37 87
+execute 330 39
+move 750
+execute 201 44
+move 516
+execute 37 87
+execute 330 39
+move 750
+execute 201 30
+move 516
+execute 37 87
+execute 330 39
+move 750
+move 239
+execute 355 95
+execute 37 87
+execute 330 39
+move 750
+move 239
+execute 355 95
+execute 37 87
+execute 330 39
+move 750
+move 239
+execute 355 95
+execute 37 87
+execute 330 39
+move 750
+move 239
+execute 355 95
+execute 37 87
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+execute 37 70
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+move 19
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+move 19
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+move 19
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+move 19
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+move 19
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+move 19
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+execute 317 87
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+execute 317 87
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+execute 317 87
+execute 330 39
+move 750
+execute 453 44
+execute 355 95
+execute 317 87
+execute 330 39
+move 750
+execute 453 44
+execute 355 51
+execute 317 87
+execute 330 39
+move 750
+execute 453 44
+move 56
+execute 317 87
+execute 330 39
+move 750
+execute 453 44
+move 56
+execute 317 87
+execute 330 26
+move 750
+execute 453 44
+move 56
+execute 317 87
+move 226
+move 750
+execute 453 44
+move 56
+execute 317 87
+move 226
+move 750
+execute 453 44
+move 56
+execute 317 87
+move 226
+move 750
+execute 453 44
+move 56
+execute 317 87
+move 226
+move 750
+execute 453 44
+move 56
+execute 317 57
+move 226
+move 750
+execute 453 44
+move 56
+move 300
+move 226
+move 750
+execute 453 44
+execute 121 95
+move 300
+move 226
+move 750
+execute 453 44
+execute 121 95
+move 300
+move 226
+move 750
+execute 453 44
+execute 121 95
+move 300
+move 226
+move 750
+execute 453 44
+execute 121 95
+move 300
+move 226
+move 750
+execute 453 44
+execute 121 95
+move 300
+move 226
+move 750
+execute 453 44
+execute 121 95
+move 300
+move 226
+move 750
+execute 453 40
+execute 121 95
+move 300
+execute 441 39
+execute 423 37
+move 647
+execute 121 95
+move 300
+execute 441 39
+execute 423 37
+move 647
+execute 121 95
+move 300
+execute 441 39
+execute 423 37
+move 647
+execute 121 36
+move 300
+execute 441 39
+execute 423 37
+move 647
+move 189
+move 300
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+move 189
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+execute 373 87
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+execute 373 44
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+move 430
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+move 430
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+move 430
+execute 441 39
+execute 423 37
+move 647
+execute 202 95
+move 430
+execute 441 39
+execute 423 37
+move 647
+execute 202 13
+move 430
+execute 441 39
+execute 423 37
+move 647
+move 853
+move 430
+execute 441 39
+execute 423 37
+move 647
+move 853
+move 430
+execute 441 1
+execute 423 4
+move 647
+move 853
+move 430
+move 437
+move 365
+move 647
+move 853
+execute 158 87
+move 437
+move 365
+move 647
+move 853
+execute 158 87
+move 437
+move 365
+move 647
+move 853
+execute 158 87
+move 437
+move 365
+move 647
+move 853
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+move 853
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+move 853
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+move 647
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+execute 158 87
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+execute 158 78
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+move 289
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 95
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+execute 38 61
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+execute 279 87
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+execute 279 62
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+move 383
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+move 383
+execute 106 39
+execute 162 37
+execute 64 44
+move 261
+move 383
+move 196
+execute 162 22
+execute 64 44
+move 261
+move 383
+move 196
+move 128
+execute 64 44
+move 261
+move 383
+move 196
+move 128
+execute 64 44
+move 261
+move 383
+move 196
+move 128
+execute 64 44
+move 261
+move 383
+execute 14 39
+move 128
+execute 64 44
+move 261
+execute 129 87
+execute 14 39
+move 128
+execute 64 44
+move 261
+execute 129 87
+execute 14 39
+move 128
+execute 64 44
+move 261
+execute 129 87
+execute 14 39
+move 128
+execute 64 28
+move 261
+execute 129 87
+execute 14 39
+move 128
+move 650
+move 261
+execute 129 87
+execute 14 39
+move 128
+move 650
+move 261
+execute 129 87
+execute 14 39
+move 128
+execute 483 44
+execute 435 95
+execute 129 87
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+execute 129 87
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+execute 129 87
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+execute 129 87
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+execute 129 87
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+execute 129 87
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+execute 129 87
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+execute 129 49
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+move 372
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+move 372
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+move 372
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 95
+move 372
+execute 14 39
+execute 55 37
+execute 483 44
+execute 435 85
+move 372
+execute 14 39
+execute 55 37
+execute 483 44
+move 213
+move 372
+execute 14 39
+execute 55 37
+execute 483 44
+move 213
+move 372
+execute 14 39
+execute 55 37
+execute 483 4
+move 213
+move 372
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 37
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+execute 55 25
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+move 270
+move 805
+execute 91 95
+execute 71 87
+execute 14 39
+move 270
+move 805
+execute 91 95
+execute 71 87
+execute 14 2
+move 270
+move 805
+execute 91 95
+execute 71 87
+move 534
+move 270
+move 805
+execute 91 73
+execute 71 87
+move 534
+move 270
+move 805
+move 853
+execute 71 87
+move 534
+move 270
+move 805
+move 853
+execute 71 41
+execute 25 39
+move 270
+move 805
+move 853
+move 159
+execute 25 39
+execute 34 37
+move 805
+move 853
+move 159
+execute 25 39
+execute 34 37
+move 805
+move 853
+move 159
+execute 25 39
+execute 34 37
+move 805
+move 853
+move 159
+execute 25 39
+execute 34 37
+move 805
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+move 805
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+move 805
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+execute 463 44
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+execute 463 44
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+execute 463 44
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+execute 463 44
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+execute 463 44
+move 853
+execute 433 87
+execute 25 39
+execute 34 37
+execute 463 44
+move 853
+execute 433 18
+execute 25 39
+execute 34 37
+execute 463 44
+execute 475 95
+move 125
+execute 25 39
+execute 34 37
+execute 463 44
+execute 475 95
+move 125
+execute 25 39
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+execute 25 39
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+execute 25 39
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+execute 25 8
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+move 130
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+move 130
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+move 130
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+execute 307 39
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+execute 307 39
+execute 34 37
+execute 463 44
+execute 475 95
+execute 98 87
+execute 307 39
+execute 34 37
+execute 463 44
+execute 475 86
+execute 98 87
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+execute 98 32
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+move 368
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+execute 258 87
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+execute 258 87
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+execute 258 87
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+execute 258 87
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+execute 258 87
+execute 307 39
+execute 34 37
+execute 463 44
+move 682
+execute 258 87
+execute 307 39
+execute 34 37
+execute 463 44
+execute 100 95
+execute 258 10
+execute 307 39
+execute 34 37
+execute 463 44
+execute 100 95
+move 548
+execute 307 39
+execute 34 37
+execute 463 44
+execute 100 95
+move 548
+execute 307 39
+execute 34 37
+execute 463 44
+execute 100 95
+move 548
+execute 307 39
+execute 34 37
+execute 463 44
+execute 100 95
+move 548
+execute 307 39
+execute 34 37
+execute 463 44
+execute 100 94
+move 548
+execute 307 39
+execute 34 37
+execute 463 44
+move 544
+move 548
+execute 307 39
+execute 34 13
+execute 463 13
+move 544
+move 548
+execute 307 39
+move 109
+move 789
+move 544
+move 548
+execute 307 39
+move 109
+move 789
+move 544
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 95
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 95
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 95
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 95
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 95
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 95
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 95
+execute 82 87
+execute 307 39
+move 109
+move 789
+execute 144 9
+execute 82 87
+execute 307 39
+move 109
+move 789
+move 854
+execute 82 87
+execute 307 39
+move 109
+move 789
+move 854
+execute 82 87
+execute 307 37
+move 109
+execute 302 44
+move 854
+execute 82 87
+move 92
+move 109
+execute 302 44
+move 854
+execute 82 87
+move 92
+move 109
+execute 302 44
+move 854
+execute 82 34
+move 92
+move 109
+execute 302 44
+move 854
+move 860
+move 92
+move 109
+execute 302 44
+move 854
+move 860
+move 92
+move 109
+execute 302 44
+move 854
+move 860
+execute 437 39
+move 109
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+move 860
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 95
+execute 11 87
+execute 437 39
+execute 118 37
+execute 302 44
+execute 33 45
+execute 11 87
+execute 437 39
+execute 118 37
+execute 302 44
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+execute 302 44
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+execute 302 44
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+execute 302 44
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+execute 302 17
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+move 843
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+move 843
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+move 843
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+move 843
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+move 843
+move 92
+execute 11 87
+execute 437 39
+execute 118 37
+move 843
+move 92
+execute 11 42
+execute 437 39
+execute 118 36
+move 843
+move 92
+move 326
+execute 437 39
+move 399
+move 843
+execute 389 95
+move 326
+execute 437 39
+move 399
+execute 264 44
+execute 389 95
+move 326
+execute 437 39
+move 399
+execute 264 44
+execute 389 95
+move 326
+execute 437 39
+move 399
+execute 264 44
+execute 389 95
+move 326
+execute 437 39
+move 399
+execute 264 44
+execute 389 95
+move 326
+execute 437 39
+execute 28 37
+execute 264 44
+execute 389 95
+move 326
+execute 437 39
+execute 28 37
+execute 264 44
+execute 389 95
+move 326
+execute 437 31
+execute 28 37
+execute 264 44
+execute 389 95
+move 326
+move 683
+execute 28 37
+execute 264 44
+execute 389 95
+move 326
+move 683
+execute 28 37
+execute 264 44
+execute 389 95
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+execute 389 46
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 497 54
+move 683
+execute 28 37
+execute 264 44
+move 111
+move 41
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 419 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 419 87
+move 683
+execute 28 37
+execute 264 44
+move 111
+execute 419 87
+move 683
+execute 28 37
+execute 264 44
+execute 351 95
+execute 419 87
+move 683
+execute 28 37
+execute 264 44
+execute 351 95
+execute 419 87
+move 683
+execute 28 37
+execute 264 44
+execute 351 95
+execute 419 87
+move 683
+execute 28 37
+execute 264 44
+execute 351 95
+execute 419 87
+execute 266 39
+execute 28 37
+execute 264 44
+execute 351 95
+execute 419 87
+execute 266 39
+execute 28 37
+execute 264 44
+execute 351 95
+execute 419 87
+execute 266 39
+execute 28 37
+execute 264 21
+execute 351 88
+execute 419 87
+execute 266 39
+execute 28 37
+move 653
+move 517
+execute 419 87
+execute 266 39
+execute 28 37
+move 653
+move 517
+execute 419 53
+execute 266 39
+execute 28 37
+move 653
+move 517
+move 657
+execute 266 39
+execute 28 37
+move 653
+move 517
+move 657
+execute 266 39
+execute 28 16
+move 653
+move 517
+move 657
+execute 266 39
+move 139
+move 653
+move 517
+move 657
+execute 266 39
+move 139
+move 653
+move 517
+move 657
+execute 266 39
+move 139
+move 653
+move 517
+move 657
+execute 266 39
+move 139
+move 653
+move 517
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+move 657
+execute 266 39
+move 139
+move 653
+execute 368 95
+execute 420 87
+execute 266 39
+move 139
+move 653
+execute 368 95
+execute 420 87
+execute 266 39
+move 139
+move 653
+execute 368 95
+execute 420 87
+execute 266 39
+move 139
+move 653
+execute 368 9
+execute 420 87
+execute 266 39
+move 139
+move 653
+move 832
+execute 420 87
+execute 266 39
+move 139
+move 653
+move 832
+execute 420 87
+execute 266 39
+move 139
+move 653
+move 832
+execute 420 87
+execute 266 39
+move 139
+move 653
+move 832
+execute 420 77
+execute 266 39
+move 139
+move 653
+move 832
+move 169
+execute 266 39
+move 139
+move 653
+move 832
+move 169
+execute 266 39
+move 139
+move 653
+move 832
+move 169
+move 824
+move 139
+move 653
+move 832
+move 169
+move 824
+move 139
+move 653
+move 832
+move 169
+move 824
+move 139
+move 653
+move 832
+execute 138 87
+move 824
+move 139
+move 653
+move 832
+execute 138 87
+move 824
+move 139
+move 653
+move 832
+execute 138 87
+move 824
+execute 424 37
+move 653
+move 832
+execute 138 87
+move 824
+execute 424 37
+move 653
+move 832
+execute 138 87
+move 824
+execute 424 37
+move 653
+move 832
+execute 138 87
+move 824
+execute 424 37
+move 653
+move 832
+execute 138 87
+move 824
+execute 424 37
+move 653
+move 832
+execute 138 20
+move 824
+execute 424 37
+move 653
+move 832
+move 603
+move 824
+execute 424 37
+move 653
+move 832
+move 603
+move 824
+execute 424 37
+move 653
+move 832
+move 603
+move 824
+execute 424 37
+move 653
+move 832
+move 603
+move 824
+execute 424 37
+move 653
+move 832
+move 603
+move 824
+execute 424 37
+move 653
+move 832
+move 603
+move 824
+execute 424 37
+move 653
+move 832
+execute 499 87
+move 824
+execute 424 37
+move 653
+move 832
+execute 499 87
+move 824
+execute 424 37
+execute 89 44
+move 832
+execute 499 87
+move 824
+execute 424 37
+execute 89 44
+move 832
+execute 499 87
+move 824
+execute 424 37
+execute 89 44
+move 832
+execute 499 87
+move 824
+execute 424 37
+execute 89 44
+move 832
+execute 499 87
+move 824
+execute 424 37
+execute 89 44
+move 832
+execute 499 87
+move 824
+execute 424 37
+execute 89 44
+move 832
+execute 499 87
+move 824
+execute 424 37
+execute 89 44
+move 832
+execute 499 87
+move 824
+execute 424 18
+execute 89 44
+move 832
+execute 499 87
+move 824
+move 605
+execute 89 44
+move 832
+execute 499 87
+move 824
+move 605
+execute 89 44
+execute 469 95
+execute 499 87
+move 824
+move 605
+execute 89 44
+execute 469 95
+execute 499 87
+move 824
+move 605
+execute 89 44
+execute 469 95
+execute 499 87
+move 824
+move 605
+execute 89 44
+execute 469 95
+execute 499 87
+move 824
+move 605
+execute 89 44
+execute 469 95
+execute 499 78
+move 824
+move 605
+execute 89 44
+execute 469 95
+move 173
+move 824
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 95
+move 173
+execute 412 39
+move 605
+execute 89 44
+execute 469 50
+move 173
+execute 412 39
+move 605
+execute 89 44
+move 822
+move 173
+execute 412 39
+move 605
+execute 89 44
+move 822
+move 173
+execute 412 39
+move 605
+execute 89 44
+move 822
+move 173
+execute 412 39
+move 605
+execute 89 44
+move 822
+move 173
+execute 412 39
+move 605
+execute 89 39
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 95
+move 173
+execute 412 39
+move 605
+move 759
+execute 203 26
+move 173
+execute 412 39
+move 605
+move 759
+move 776
+move 173
+execute 412 39
+move 605
+move 759
+move 776
+move 173
+execute 412 39
+move 605
+move 759
+move 776
+move 173
+execute 412 39
+move 605
+move 759
+move 776
+move 173
+execute 412 7
+move 605
+move 759
+move 776
+move 173
+move 369
+execute 308 37
+move 759
+move 776
+move 173
+move 369
+execute 308 37
+move 759
+move 776
+move 173
+move 369
+execute 308 37
+move 759
+move 776
+move 173
+move 369
+execute 308 37
+move 759
+move 776
+move 173
+move 369
+execute 308 37
+execute 173 44
+move 776
+move 173
+move 369
+execute 308 37
+execute 173 44
+move 776
+move 173
+move 369
+execute 308 37
+execute 173 44
+move 776
+move 173
+move 369
+execute 308 37
+execute 173 44
+move 776
+move 173
+move 369
+execute 308 37
+execute 173 44
+move 776
+move 173
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+move 173
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+move 173
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+move 173
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+execute 321 95
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+execute 321 20
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+move 562
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+move 562
+execute 378 87
+move 369
+execute 308 37
+execute 173 44
+move 562
+execute 378 87
+execute 103 39
+execute 308 37
+execute 173 44
+move 562
+execute 378 87
+execute 103 39
+execute 308 37
+execute 173 7
+move 562
+execute 378 87
+execute 103 39
+execute 308 37
+move 770
+move 562
+execute 378 87
+execute 103 39
+execute 308 37
+move 770
+move 562
+execute 378 87
+execute 103 39
+execute 308 37
+execute 440 44
+move 562
+execute 378 87
+execute 103 39
+execute 308 37
+execute 440 44
+move 562
+move 739
+execute 103 39
+execute 308 37
+execute 440 44
+move 562
+move 739
+execute 103 39
+execute 308 37
+execute 440 44
+move 562
+move 739
+execute 103 39
+execute 308 37
+execute 440 44
+execute 425 95
+move 739
+execute 103 39
+execute 308 37
+execute 440 44
+execute 425 95
+move 739
+execute 103 39
+execute 308 12
+execute 440 44
+execute 425 95
+move 739
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+move 739
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+move 739
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+move 739
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+move 739
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 95
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+execute 425 36
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+move 769
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+move 769
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+move 769
+execute 19 87
+execute 103 39
+move 38
+execute 440 44
+move 769
+execute 19 87
+execute 103 6
+move 38
+execute 440 44
+move 769
+execute 19 87
+move 328
+move 38
+execute 440 44
+move 769
+execute 19 87
+move 328
+move 38
+execute 440 44
+move 769
+execute 19 87
+move 328
+move 38
+execute 440 13
+move 769
+execute 19 87
+move 328
+move 38
+move 220
+move 769
+execute 19 3
+move 328
+move 38
+move 220
+move 769
+move 86
+move 328
+move 38
+move 220
+move 769
+move 86
+move 328
+move 38
+move 220
+move 769
+move 86
+move 328
+move 38
+move 220
+move 769
+move 86
+move 328
+move 38
+move 220
+move 769
+move 86
+execute 251 39
+move 38
+move 220
+move 769
+move 86
+execute 251 39
+move 38
+move 220
+move 769
+move 86
+execute 251 39
+move 38
+move 220
+move 769
+move 86
+execute 251 39
+move 38
+move 220
+move 769
+move 86
+execute 251 39
+move 38
+move 220
+move 769
+move 86
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+move 220
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+execute 487 44
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+execute 487 44
+move 769
+execute 358 87
+execute 251 39
+execute 240 37
+execute 487 44
+move 769
+execute 358 3
+execute 251 39
+execute 240 37
+execute 487 44
+move 769
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 37
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+execute 240 30
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+move 495
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+move 495
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+move 495
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+move 495
+execute 487 44
+execute 335 95
+move 454
+execute 251 39
+move 495
+execute 487 44
+execute 335 8
+move 454
+execute 251 39
+move 495
+execute 487 44
+move 449
+move 454
+execute 251 39
+move 495
+execute 487 44
+move 449
+move 454
+execute 251 39
+move 495
+execute 487 44
+move 449
+move 454
+execute 251 39
+move 495
+execute 487 44
+move 449
+execute 294 87
+execute 251 22
+move 495
+execute 487 44
+move 449
+execute 294 87
+move 269
+move 495
+execute 487 44
+move 449
+execute 294 87
+execute 175 39
+execute 116 37
+execute 487 44
+move 449
+execute 294 87
+execute 175 39
+execute 116 37
+execute 487 44
+move 449
+execute 294 87
+execute 175 39
+execute 116 37
+execute 487 16
+move 449
+execute 294 87
+execute 175 39
+execute 116 37
+move 799
+move 449
+execute 294 87
+execute 175 39
+execute 116 37
+move 799
+move 449
+execute 294 87
+execute 175 39
+execute 116 37
+move 799
+execute 104 95
+execute 294 87
+execute 175 39
+execute 116 37
+move 799
+execute 104 95
+execute 294 87
+execute 175 39
+execute 116 37
+move 799
+execute 104 95
+execute 294 87
+execute 175 39
+execute 116 37
+move 799
+execute 104 95
+execute 294 52
+execute 175 39
+execute 116 37
+move 799
+execute 104 95
+move 92
+execute 175 39
+execute 116 37
+move 799
+execute 104 95
+move 92
+execute 175 39
+execute 116 37
+move 799
+execute 104 95
+move 92
+execute 175 39
+execute 116 37
+move 799
+execute 104 91
+move 92
+execute 175 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 175 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 175 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 175 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 175 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 175 4
+execute 116 37
+move 799
+move 251
+execute 360 87
+move 31
+execute 116 37
+move 799
+move 251
+execute 360 87
+move 31
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 449 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 449 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 449 39
+execute 116 37
+move 799
+move 251
+execute 360 87
+execute 449 39
+execute 116 37
+move 799
+execute 126 95
+execute 360 87
+execute 449 39
+execute 116 37
+move 799
+execute 126 95
+execute 360 87
+execute 449 39
+execute 116 37
+move 799
+execute 126 95
+execute 360 45
+execute 449 39
+execute 116 7
+move 799
+execute 126 95
+move 26
+execute 449 39
+move 770
+move 799
+execute 126 95
+move 26
+execute 449 39
+move 770
+move 799
+execute 126 95
+move 26
+execute 449 39
+move 770
+move 799
+execute 126 62
+move 26
+execute 449 39
+move 770
+move 799
+move 276
+move 26
+execute 449 39
+move 770
+move 799
+move 276
+move 26
+execute 449 39
+move 770
+move 799
+move 276
+move 26
+execute 449 39
+move 770
+move 799
+move 276
+execute 348 87
+execute 449 39
+move 770
+move 799
+move 276
+execute 348 87
+execute 449 39
+move 770
+move 799
+move 276
+execute 348 87
+execute 449 39
+move 770
+move 799
+execute 110 95
+execute 348 87
+execute 449 39
+move 770
+move 799
+execute 110 95
+execute 348 87
+execute 449 39
+move 770
+move 799
+execute 110 95
+execute 348 87
+execute 449 39
+move 770
+move 799
+execute 110 95
+execute 348 87
+execute 449 39
+move 770
+move 799
+execute 110 95
+execute 348 60
+execute 449 39
+move 770
+move 799
+execute 110 95
+move 167
+execute 449 39
+move 770
+move 799
+execute 110 95
+move 167
+execute 449 39
+move 770
+move 799
+execute 110 95
+move 167
+execute 449 39
+move 770
+move 799
+execute 110 95
+move 167
+execute 449 39
+move 770
+move 799
+execute 110 95
+move 167
+execute 449 39
+move 770
+move 799
+execute 110 95
+move 167
+execute 449 39
+move 770
+move 799
+execute 110 65
+move 167
+execute 449 39
+move 770
+move 799
+move 398
+move 167
+execute 449 39
+move 770
+move 799
+move 398
+move 167
+execute 449 39
+move 770
+move 799
+move 398
+move 167
+execute 449 39
+move 770
+move 799
+move 398
+execute 236 87
+execute 449 39
+execute 62 37
+move 799
+move 398
+execute 236 87
+execute 449 39
+execute 62 37
+move 799
+move 398
+execute 236 87
+execute 449 39
+execute 62 37
+move 799
+move 398
+execute 236 87
+execute 449 21
+execute 62 37
+move 799
+move 398
+execute 236 87
+move 819
+execute 62 37
+move 799
+move 398
+execute 236 87
+move 819
+execute 62 37
+move 799
+move 398
+execute 236 87
+move 819
+execute 62 37
+move 799
+execute 204 95
+execute 236 87
+move 819
+execute 62 37
+move 799
+execute 204 95
+execute 236 87
+move 819
+execute 62 37
+move 799
+execute 204 95
+execute 236 87
+move 819
+execute 62 37
+execute 356 44
+execute 204 95
+execute 236 87
+move 819
+execute 62 37
+execute 356 44
+execute 204 95
+execute 236 82
+move 819
+execute 62 37
+execute 356 44
+execute 204 95
+move 540
+move 819
+execute 62 37
+execute 356 44
+execute 204 95
+move 540
+move 819
+execute 62 37
+execute 356 44
+execute 204 87
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+move 819
+execute 62 37
+execute 356 44
+move 417
+move 540
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+move 540
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+move 540
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+move 540
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+move 540
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+move 540
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+move 540
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+execute 434 87
+execute 361 39
+execute 62 37
+execute 356 44
+move 417
+execute 434 87
+execute 361 39
+execute 62 22
+execute 356 44
+move 417
+execute 434 87
+execute 361 39
+move 337
+execute 356 44
+move 417
+execute 434 87
+execute 361 39
+move 337
+execute 356 44
+move 417
+execute 434 87
+execute 361 39
+move 337
+execute 356 10
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 87
+execute 361 39
+move 337
+move 476
+move 417
+execute 434 58
+execute 361 39
+move 337
+move 476
+move 417
+move 452
+execute 361 39
+move 337
+move 476
+move 417
+move 452
+execute 361 5
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 87
+move 661
+move 337
+move 476
+move 417
+execute 213 54
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+move 337
+move 476
+move 417
+move 553
+move 661
+execute 181 37
+move 476
+move 417
+move 553
+move 661
+execute 181 37
+move 476
+move 417
+move 553
+move 661
+execute 181 37
+move 476
+move 417
+move 553
+move 661
+execute 181 37
+move 476
+move 417
+move 553
+move 661
+execute 181 37
+move 476
+move 417
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+move 661
+execute 181 37
+move 476
+execute 133 95
+move 553
+execute 341 39
+execute 181 37
+move 476
+execute 133 95
+move 553
+execute 341 39
+execute 181 37
+move 476
+execute 133 95
+move 553
+execute 341 39
+execute 181 37
+move 476
+execute 133 95
+move 553
+execute 341 39
+execute 181 37
+execute 385 44
+execute 133 95
+move 553
+execute 341 39
+execute 181 37
+execute 385 44
+execute 133 86
+move 553
+execute 341 39
+execute 181 37
+execute 385 44
+move 655
+execute 42 87
+execute 341 39
+execute 181 37
+execute 385 44
+move 655
+execute 42 87
+execute 341 39
+execute 181 37
+execute 385 44
+move 655
+execute 42 87
+execute 341 39
+execute 181 37
+execute 385 44
+stay
+execute 42 87
+execute 341 39
+execute 181 37
+execute 385 44
+stay
+execute 42 87
+execute 341 39
+execute 181 37
+execute 385 44
+stay
+execute 42 87
+execute 341 39
+execute 181 37
+execute 385 44
+stay
+execute 42 87
+execute 341 39
+execute 181 37
+execute 385 44
+stay
+execute 42 42
+execute 341 39
+execute 181 28
+execute 385 44
+stay
+move 129
+execute 341 39
+move 360
+execute 385 44
+stay
+move 129
+execute 341 39
+move 360
+execute 385 44
+stay
+move 129
+execute 341 39
+move 360
+execute 385 44
+stay
+move 129
+execute 341 39
+move 360
+execute 385 44
+stay
+move 129
+execute 341 39
+move 360
+execute 385 44
+stay
+move 129
+execute 341 39
+move 360
+execute 385 44
+stay
+execute 92 87
+execute 341 39
+move 360
+execute 385 44
+stay
+execute 92 87
+execute 341 39
+move 360
+execute 385 44
+stay
+execute 92 87
+execute 341 39
+move 360
+execute 385 44
+stay
+execute 92 87
+execute 341 39
+move 360
+execute 385 44
+stay
+execute 92 87
+execute 341 39
+move 360
+execute 385 44
+stay
+execute 92 87
+execute 341 39
+move 360
+execute 385 44
+stay
+execute 92 87
+execute 341 37
+move 360
+execute 385 44
+stay
+execute 92 87
+move 630
+move 360
+execute 385 16
+stay
+execute 92 87
+move 630
+move 360
+move 752
+stay
+execute 92 84
+move 630
+move 360
+move 752
+stay
+move 509
+move 630
+move 360
+move 752
+stay
+move 509
+move 630
+move 360
+move 752
+stay
+move 509
+move 630
+move 360
+move 752
+stay
+move 509
+move 630
+move 360
+move 752
+stay
+move 509
+move 630
+move 360
+move 752
+stay
+move 509
+move 630
+move 360
+move 752
+stay
+move 509
+stay
+move 360
+move 752
+stay
+move 509
+stay
+move 360
+move 752
+stay
+move 509
+stay
+move 360
+move 752
+stay
+move 509
+stay
+move 360
+execute 443 44
+stay
+move 509
+stay
+move 360
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay
+move 509
+stay
+stay
+execute 443 44
+stay

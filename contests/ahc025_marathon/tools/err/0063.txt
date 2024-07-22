@@ -1,0 +1,1325 @@
+    Blocking waiting for file lock on build directory
+    Finished release [optimized] target(s) in 0.30s
+     Running `target/release/tester ../target/release/ahc025_a`
+turn: 1 end
+turn: 2 end
+turn: 3 end
+turn: 4 end
+turn: 5 end
+turn: 6 end
+turn: 7 end
+turn: 8 end
+turn: 9 end
+turn: 10 end
+turn: 11 end
+turn: 12 end
+turn: 13 end
+turn: 14 end
+turn: 15 end
+turn: 16 end
+turn: 17 end
+turn: 18 end
+turn: 19 end
+turn: 20 end
+turn: 21 end
+turn: 22 end
+turn: 23 end
+turn: 24 end
+turn: 25 end
+turn: 26 end
+turn: 27 end
+turn: 28 end
+turn: 29 end
+turn: 30 end
+turn: 31 end
+turn: 32 end
+turn: 32, n_sample: 1
+turn: 33 end
+turn: 34 end
+turn: 35 end
+insert_to: 5, len: 10
+turn: 36 end
+turn: 37 end
+turn: 38 end
+turn: 39 end
+insert_to: 9, len: 11
+turn: 39, n_sample: 1
+turn: 40 end
+turn: 41 end
+turn: 42 end
+insert_to: 2, len: 10
+turn: 43 end
+turn: 44 end
+turn: 45 end
+insert_to: 11, len: 11
+turn: 45, n_sample: 1
+turn: 46 end
+turn: 47 end
+turn: 48 end
+insert_to: 2, len: 10
+turn: 49 end
+turn: 50 end
+turn: 51 end
+turn: 52 end
+insert_to: 10, len: 11
+turn: 52, n_sample: 1
+turn: 53 end
+turn: 54 end
+turn: 55 end
+insert_to: 2, len: 10
+turn: 56 end
+turn: 57 end
+turn: 58 end
+turn: 59 end
+insert_to: 10, len: 11
+turn: 59, n_sample: 1
+turn: 60 end
+turn: 61 end
+turn: 62 end
+turn: 63 end
+insert_to: 3, len: 10
+turn: 64 end
+turn: 65 end
+turn: 66 end
+turn: 67 end
+insert_to: 10, len: 11
+turn: 67, n_sample: 1
+turn: 68 end
+turn: 69 end
+turn: 70 end
+turn: 71 end
+insert_to: 0, len: 10
+turn: 72 end
+turn: 73 end
+turn: 74 end
+turn: 75 end
+insert_to: 10, len: 11
+turn: 75, n_sample: 1
+turn: 76 end
+turn: 77 end
+turn: 78 end
+turn: 79 end
+insert_to: 1, len: 10
+turn: 80 end
+turn: 81 end
+turn: 82 end
+insert_to: 11, len: 11
+turn: 82, n_sample: 1
+turn: 83 end
+turn: 84 end
+turn: 85 end
+insert_to: 5, len: 10
+turn: 86 end
+turn: 87 end
+turn: 88 end
+turn: 89 end
+insert_to: 9, len: 11
+turn: 89, n_sample: 1
+turn: 90 end
+turn: 91 end
+turn: 92 end
+insert_to: 10, len: 10
+turn: 93 end
+turn: 94 end
+turn: 95 end
+turn: 96 end
+insert_to: 0, len: 11
+turn: 96, n_sample: 1
+turn: 97 end
+turn: 98 end
+turn: 99 end
+turn: 100 end
+insert_to: 0, len: 10
+turn: 101 end
+turn: 102 end
+turn: 103 end
+insert_to: 11, len: 11
+turn: 103, n_sample: 1
+turn: 104 end
+turn: 105 end
+turn: 106 end
+turn: 107 end
+insert_to: 0, len: 10
+turn: 108 end
+turn: 109 end
+turn: 110 end
+insert_to: 11, len: 11
+turn: 110, n_sample: 1
+turn: 111 end
+turn: 112 end
+turn: 113 end
+turn: 114 end
+insert_to: 0, len: 10
+turn: 115 end
+turn: 116 end
+turn: 117 end
+insert_to: 11, len: 11
+turn: 117, n_sample: 1
+turn: 118 end
+turn: 119 end
+turn: 120 end
+turn: 121 end
+insert_to: 7, len: 10
+turn: 122 end
+turn: 123 end
+turn: 124 end
+turn: 125 end
+insert_to: 7, len: 11
+turn: 125, n_sample: 1
+turn: 126 end
+turn: 127 end
+turn: 128 end
+insert_to: 5, len: 10
+turn: 129 end
+turn: 130 end
+turn: 131 end
+insert_to: 8, len: 11
+turn: 131, n_sample: 1
+turn: 132 end
+turn: 133 end
+turn: 134 end
+insert_to: 5, len: 10
+turn: 135 end
+turn: 136 end
+turn: 137 end
+insert_to: 8, len: 11
+turn: 137, n_sample: 1
+turn: 138 end
+turn: 139 end
+turn: 140 end
+turn: 141 end
+insert_to: 1, len: 10
+turn: 142 end
+turn: 143 end
+turn: 144 end
+insert_to: 11, len: 11
+turn: 144, n_sample: 1
+turn: 145 end
+turn: 146 end
+turn: 147 end
+insert_to: 8, len: 10
+turn: 148 end
+turn: 149 end
+turn: 150 end
+turn: 151 end
+insert_to: 4, len: 11
+turn: 151, n_sample: 1
+turn: 152 end
+turn: 153 end
+turn: 154 end
+insert_to: 5, len: 10
+turn: 155 end
+turn: 156 end
+turn: 157 end
+insert_to: 8, len: 11
+turn: 157, n_sample: 1
+turn: 158 end
+turn: 159 end
+turn: 160 end
+insert_to: 10, len: 10
+turn: 161 end
+turn: 162 end
+turn: 163 end
+turn: 164 end
+insert_to: 0, len: 11
+turn: 164, n_sample: 1
+turn: 165 end
+turn: 166 end
+turn: 167 end
+turn: 168 end
+insert_to: 0, len: 10
+turn: 169 end
+turn: 170 end
+turn: 171 end
+insert_to: 11, len: 11
+turn: 171, n_sample: 1
+turn: 172 end
+turn: 173 end
+turn: 174 end
+turn: 175 end
+insert_to: 0, len: 10
+turn: 176 end
+turn: 177 end
+turn: 178 end
+insert_to: 11, len: 11
+turn: 178, n_sample: 1
+turn: 179 end
+turn: 180 end
+turn: 181 end
+turn: 182 end
+insert_to: 0, len: 10
+turn: 183 end
+turn: 184 end
+turn: 185 end
+insert_to: 11, len: 11
+turn: 185, n_sample: 1
+turn: 186 end
+turn: 187 end
+turn: 188 end
+turn: 189 end
+insert_to: 0, len: 10
+turn: 190 end
+turn: 191 end
+turn: 192 end
+insert_to: 11, len: 11
+turn: 192, n_sample: 1
+turn: 193 end
+turn: 194 end
+turn: 195 end
+insert_to: 10, len: 10
+turn: 196 end
+turn: 197 end
+turn: 198 end
+turn: 199 end
+insert_to: 0, len: 11
+turn: 199, n_sample: 1
+turn: 200 end
+turn: 201 end
+turn: 202 end
+turn: 203 end
+insert_to: 0, len: 10
+turn: 204 end
+turn: 205 end
+turn: 206 end
+insert_to: 11, len: 11
+turn: 206, n_sample: 1
+turn: 207 end
+turn: 208 end
+turn: 209 end
+turn: 210 end
+insert_to: 0, len: 10
+turn: 211 end
+turn: 212 end
+turn: 213 end
+insert_to: 11, len: 11
+turn: 213, n_sample: 1
+turn: 214 end
+turn: 215 end
+turn: 216 end
+turn: 217 end
+insert_to: 0, len: 10
+turn: 218 end
+turn: 219 end
+turn: 220 end
+insert_to: 11, len: 11
+turn: 220, n_sample: 1
+turn: 221 end
+turn: 222 end
+turn: 223 end
+insert_to: 10, len: 10
+turn: 224 end
+turn: 225 end
+turn: 226 end
+turn: 227 end
+insert_to: 0, len: 11
+turn: 227, n_sample: 1
+turn: 228 end
+turn: 229 end
+turn: 230 end
+turn: 231 end
+insert_to: 0, len: 10
+turn: 232 end
+turn: 233 end
+turn: 234 end
+insert_to: 11, len: 11
+turn: 234, n_sample: 1
+turn: 235 end
+turn: 236 end
+turn: 237 end
+turn: 238 end
+insert_to: 0, len: 10
+turn: 239 end
+turn: 240 end
+turn: 241 end
+insert_to: 11, len: 11
+turn: 241, n_sample: 1
+turn: 242 end
+turn: 243 end
+turn: 244 end
+turn: 245 end
+insert_to: 0, len: 10
+turn: 246 end
+turn: 247 end
+turn: 248 end
+insert_to: 11, len: 11
+turn: 248, n_sample: 1
+turn: 249 end
+turn: 250 end
+turn: 251 end
+insert_to: 10, len: 10
+turn: 252 end
+turn: 253 end
+turn: 254 end
+turn: 255 end
+insert_to: 0, len: 11
+turn: 255, n_sample: 1
+turn: 256 end
+turn: 257 end
+turn: 258 end
+turn: 259 end
+insert_to: 0, len: 10
+turn: 260 end
+turn: 261 end
+turn: 262 end
+insert_to: 11, len: 11
+turn: 262, n_sample: 1
+turn: 263 end
+turn: 264 end
+turn: 265 end
+turn: 266 end
+insert_to: 0, len: 10
+turn: 267 end
+turn: 268 end
+turn: 269 end
+insert_to: 11, len: 11
+turn: 269, n_sample: 1
+turn: 270 end
+turn: 271 end
+turn: 272 end
+turn: 273 end
+insert_to: 0, len: 10
+turn: 274 end
+turn: 275 end
+turn: 276 end
+insert_to: 11, len: 11
+turn: 276, n_sample: 1
+turn: 277 end
+turn: 278 end
+turn: 279 end
+insert_to: 10, len: 10
+turn: 280 end
+turn: 281 end
+turn: 282 end
+turn: 283 end
+insert_to: 0, len: 11
+turn: 283, n_sample: 1
+turn: 284 end
+turn: 285 end
+turn: 286 end
+turn: 287 end
+insert_to: 0, len: 10
+turn: 288 end
+turn: 289 end
+turn: 290 end
+insert_to: 11, len: 11
+turn: 290, n_sample: 1
+turn: 291 end
+turn: 292 end
+turn: 293 end
+turn: 294 end
+insert_to: 0, len: 10
+turn: 295 end
+turn: 296 end
+turn: 297 end
+insert_to: 11, len: 11
+turn: 297, n_sample: 1
+turn: 298 end
+turn: 299 end
+turn: 300 end
+turn: 301 end
+insert_to: 0, len: 10
+turn: 302 end
+turn: 303 end
+turn: 304 end
+insert_to: 11, len: 11
+turn: 304, n_sample: 1
+turn: 305 end
+turn: 306 end
+turn: 307 end
+insert_to: 10, len: 10
+turn: 308 end
+turn: 309 end
+turn: 310 end
+turn: 311 end
+insert_to: 0, len: 11
+turn: 311, n_sample: 1
+turn: 312 end
+turn: 313 end
+turn: 314 end
+turn: 315 end
+insert_to: 0, len: 10
+turn: 316 end
+turn: 317 end
+turn: 318 end
+insert_to: 11, len: 11
+turn: 318, n_sample: 1
+turn: 319 end
+turn: 320 end
+turn: 321 end
+turn: 322 end
+insert_to: 0, len: 10
+turn: 323 end
+turn: 324 end
+turn: 325 end
+insert_to: 11, len: 11
+turn: 325, n_sample: 1
+turn: 326 end
+turn: 327 end
+turn: 328 end
+turn: 329 end
+insert_to: 0, len: 10
+turn: 330 end
+turn: 331 end
+turn: 332 end
+insert_to: 11, len: 11
+turn: 332, n_sample: 1
+turn: 333 end
+turn: 334 end
+turn: 335 end
+insert_to: 10, len: 10
+turn: 336 end
+turn: 337 end
+turn: 338 end
+turn: 339 end
+insert_to: 0, len: 11
+turn: 339, n_sample: 1
+turn: 340 end
+turn: 341 end
+turn: 342 end
+turn: 343 end
+insert_to: 0, len: 10
+turn: 344 end
+turn: 345 end
+turn: 346 end
+insert_to: 11, len: 11
+turn: 346, n_sample: 1
+turn: 347 end
+turn: 348 end
+turn: 349 end
+turn: 350 end
+insert_to: 0, len: 10
+turn: 351 end
+turn: 352 end
+turn: 353 end
+insert_to: 11, len: 11
+turn: 353, n_sample: 1
+turn: 354 end
+turn: 355 end
+turn: 356 end
+turn: 357 end
+insert_to: 0, len: 10
+turn: 358 end
+turn: 359 end
+turn: 360 end
+insert_to: 11, len: 11
+turn: 360, n_sample: 1
+turn: 361 end
+turn: 362 end
+turn: 363 end
+insert_to: 10, len: 10
+turn: 364 end
+turn: 365 end
+turn: 366 end
+turn: 367 end
+insert_to: 0, len: 11
+turn: 367, n_sample: 1
+turn: 368 end
+turn: 369 end
+turn: 370 end
+turn: 371 end
+insert_to: 0, len: 10
+turn: 372 end
+turn: 373 end
+turn: 374 end
+insert_to: 11, len: 11
+turn: 374, n_sample: 1
+turn: 375 end
+turn: 376 end
+turn: 377 end
+turn: 378 end
+insert_to: 0, len: 10
+turn: 379 end
+turn: 380 end
+turn: 381 end
+insert_to: 11, len: 11
+turn: 381, n_sample: 1
+turn: 382 end
+turn: 383 end
+turn: 384 end
+turn: 385 end
+insert_to: 0, len: 10
+turn: 386 end
+turn: 387 end
+turn: 388 end
+insert_to: 11, len: 11
+turn: 388, n_sample: 1
+turn: 389 end
+turn: 390 end
+turn: 391 end
+insert_to: 10, len: 10
+turn: 392 end
+turn: 393 end
+turn: 394 end
+turn: 395 end
+insert_to: 0, len: 11
+turn: 395, n_sample: 1
+turn: 396 end
+turn: 397 end
+turn: 398 end
+turn: 399 end
+insert_to: 0, len: 10
+turn: 400 end
+turn: 401 end
+turn: 402 end
+insert_to: 11, len: 11
+turn: 402, n_sample: 1
+turn: 403 end
+turn: 404 end
+turn: 405 end
+turn: 406 end
+insert_to: 0, len: 10
+turn: 407 end
+turn: 408 end
+turn: 409 end
+insert_to: 11, len: 11
+turn: 409, n_sample: 1
+turn: 410 end
+turn: 411 end
+turn: 412 end
+turn: 413 end
+insert_to: 0, len: 10
+turn: 414 end
+turn: 415 end
+turn: 416 end
+insert_to: 11, len: 11
+turn: 416, n_sample: 1
+turn: 417 end
+turn: 418 end
+turn: 419 end
+insert_to: 10, len: 10
+turn: 420 end
+turn: 421 end
+turn: 422 end
+turn: 423 end
+insert_to: 0, len: 11
+turn: 423, n_sample: 1
+turn: 424 end
+turn: 425 end
+turn: 426 end
+turn: 427 end
+insert_to: 0, len: 10
+turn: 428 end
+turn: 429 end
+turn: 430 end
+insert_to: 11, len: 11
+turn: 430, n_sample: 1
+turn: 431 end
+turn: 432 end
+turn: 433 end
+turn: 434 end
+insert_to: 0, len: 10
+turn: 435 end
+turn: 436 end
+turn: 437 end
+insert_to: 11, len: 11
+turn: 437, n_sample: 1
+turn: 438 end
+turn: 439 end
+turn: 440 end
+turn: 441 end
+insert_to: 0, len: 10
+turn: 442 end
+turn: 443 end
+turn: 444 end
+insert_to: 11, len: 11
+turn: 444, n_sample: 1
+turn: 445 end
+turn: 446 end
+turn: 447 end
+insert_to: 10, len: 10
+turn: 448 end
+turn: 449 end
+turn: 450 end
+turn: 451 end
+insert_to: 0, len: 11
+turn: 451, n_sample: 1
+turn: 452 end
+turn: 453 end
+turn: 454 end
+turn: 455 end
+insert_to: 0, len: 10
+turn: 456 end
+turn: 457 end
+turn: 458 end
+insert_to: 11, len: 11
+turn: 458, n_sample: 1
+turn: 459 end
+turn: 460 end
+turn: 461 end
+turn: 462 end
+insert_to: 0, len: 10
+turn: 463 end
+turn: 464 end
+turn: 465 end
+insert_to: 11, len: 11
+turn: 465, n_sample: 1
+turn: 466 end
+turn: 467 end
+turn: 468 end
+turn: 469 end
+insert_to: 0, len: 10
+turn: 470 end
+turn: 471 end
+turn: 472 end
+insert_to: 11, len: 11
+turn: 472, n_sample: 1
+turn: 473 end
+turn: 474 end
+turn: 475 end
+insert_to: 10, len: 10
+turn: 476 end
+turn: 477 end
+turn: 478 end
+turn: 479 end
+insert_to: 0, len: 11
+turn: 479, n_sample: 1
+turn: 480 end
+turn: 481 end
+turn: 482 end
+turn: 483 end
+insert_to: 0, len: 10
+turn: 484 end
+turn: 485 end
+turn: 486 end
+insert_to: 11, len: 11
+turn: 486, n_sample: 1
+turn: 487 end
+turn: 488 end
+turn: 489 end
+turn: 490 end
+insert_to: 0, len: 10
+turn: 491 end
+turn: 492 end
+turn: 493 end
+insert_to: 11, len: 11
+turn: 493, n_sample: 1
+turn: 494 end
+turn: 495 end
+turn: 496 end
+turn: 497 end
+insert_to: 0, len: 10
+turn: 498 end
+turn: 499 end
+turn: 500 end
+insert_to: 11, len: 11
+turn: 500, n_sample: 1
+turn: 501 end
+turn: 502 end
+turn: 503 end
+insert_to: 10, len: 10
+turn: 504 end
+turn: 505 end
+turn: 506 end
+turn: 507 end
+insert_to: 0, len: 11
+turn: 507, n_sample: 1
+turn: 508 end
+turn: 509 end
+turn: 510 end
+turn: 511 end
+insert_to: 0, len: 10
+turn: 512 end
+turn: 513 end
+turn: 514 end
+insert_to: 11, len: 11
+turn: 514, n_sample: 1
+turn: 515 end
+turn: 516 end
+turn: 517 end
+turn: 518 end
+insert_to: 0, len: 10
+turn: 519 end
+turn: 520 end
+turn: 521 end
+insert_to: 11, len: 11
+turn: 521, n_sample: 1
+turn: 522 end
+turn: 523 end
+turn: 524 end
+turn: 525 end
+insert_to: 0, len: 10
+turn: 526 end
+turn: 527 end
+turn: 528 end
+insert_to: 11, len: 11
+turn: 528, n_sample: 1
+turn: 529 end
+turn: 530 end
+turn: 531 end
+insert_to: 10, len: 10
+turn: 532 end
+turn: 533 end
+turn: 534 end
+turn: 535 end
+insert_to: 0, len: 11
+turn: 535, n_sample: 1
+turn: 536 end
+turn: 537 end
+turn: 538 end
+turn: 539 end
+insert_to: 0, len: 10
+turn: 540 end
+turn: 541 end
+turn: 542 end
+insert_to: 11, len: 11
+turn: 542, n_sample: 1
+turn: 543 end
+turn: 544 end
+turn: 545 end
+turn: 546 end
+insert_to: 0, len: 10
+turn: 547 end
+turn: 548 end
+turn: 549 end
+insert_to: 11, len: 11
+turn: 549, n_sample: 1
+turn: 550 end
+turn: 551 end
+turn: 552 end
+turn: 553 end
+insert_to: 0, len: 10
+turn: 554 end
+turn: 555 end
+turn: 556 end
+insert_to: 11, len: 11
+turn: 556, n_sample: 1
+turn: 557 end
+turn: 558 end
+turn: 559 end
+insert_to: 10, len: 10
+turn: 560 end
+turn: 561 end
+turn: 562 end
+turn: 563 end
+insert_to: 0, len: 11
+turn: 563, n_sample: 1
+turn: 564 end
+turn: 565 end
+turn: 566 end
+turn: 567 end
+insert_to: 0, len: 10
+turn: 568 end
+turn: 569 end
+turn: 570 end
+insert_to: 11, len: 11
+turn: 570, n_sample: 1
+turn: 571 end
+turn: 572 end
+turn: 573 end
+turn: 574 end
+insert_to: 0, len: 10
+turn: 575 end
+turn: 576 end
+turn: 577 end
+insert_to: 11, len: 11
+turn: 577, n_sample: 1
+turn: 578 end
+turn: 579 end
+turn: 580 end
+turn: 581 end
+insert_to: 0, len: 10
+turn: 582 end
+turn: 583 end
+turn: 584 end
+insert_to: 11, len: 11
+turn: 584, n_sample: 1
+turn: 585 end
+turn: 586 end
+turn: 587 end
+insert_to: 10, len: 10
+turn: 588 end
+turn: 589 end
+turn: 590 end
+turn: 591 end
+insert_to: 0, len: 11
+turn: 591, n_sample: 1
+turn: 592 end
+turn: 593 end
+turn: 594 end
+turn: 595 end
+insert_to: 0, len: 10
+turn: 596 end
+turn: 597 end
+turn: 598 end
+insert_to: 11, len: 11
+turn: 598, n_sample: 1
+turn: 599 end
+turn: 600 end
+turn: 601 end
+turn: 602 end
+insert_to: 0, len: 10
+turn: 603 end
+turn: 604 end
+turn: 605 end
+insert_to: 11, len: 11
+turn: 605, n_sample: 1
+turn: 606 end
+turn: 607 end
+turn: 608 end
+turn: 609 end
+insert_to: 0, len: 10
+turn: 610 end
+turn: 611 end
+turn: 612 end
+insert_to: 11, len: 11
+turn: 612, n_sample: 1
+turn: 613 end
+turn: 614 end
+turn: 615 end
+insert_to: 10, len: 10
+turn: 616 end
+turn: 617 end
+turn: 618 end
+turn: 619 end
+insert_to: 0, len: 11
+turn: 619, n_sample: 1
+turn: 620 end
+turn: 621 end
+turn: 622 end
+turn: 623 end
+insert_to: 0, len: 10
+turn: 624 end
+turn: 625 end
+turn: 626 end
+insert_to: 11, len: 11
+turn: 626, n_sample: 1
+turn: 627 end
+turn: 628 end
+turn: 629 end
+turn: 630 end
+insert_to: 0, len: 10
+turn: 631 end
+turn: 632 end
+turn: 633 end
+insert_to: 11, len: 11
+turn: 633, n_sample: 1
+turn: 634 end
+turn: 635 end
+turn: 636 end
+turn: 637 end
+insert_to: 0, len: 10
+turn: 638 end
+turn: 639 end
+turn: 640 end
+insert_to: 11, len: 11
+turn: 640, n_sample: 1
+turn: 641 end
+turn: 642 end
+turn: 643 end
+insert_to: 10, len: 10
+turn: 644 end
+turn: 645 end
+turn: 646 end
+turn: 647 end
+insert_to: 0, len: 11
+turn: 647, n_sample: 1
+turn: 648 end
+turn: 649 end
+turn: 650 end
+turn: 651 end
+insert_to: 0, len: 10
+turn: 652 end
+turn: 653 end
+turn: 654 end
+insert_to: 11, len: 11
+turn: 654, n_sample: 1
+turn: 655 end
+turn: 656 end
+turn: 657 end
+turn: 658 end
+insert_to: 0, len: 10
+turn: 659 end
+turn: 660 end
+turn: 661 end
+insert_to: 11, len: 11
+turn: 661, n_sample: 1
+turn: 662 end
+turn: 663 end
+turn: 664 end
+turn: 665 end
+insert_to: 0, len: 10
+turn: 666 end
+turn: 667 end
+turn: 668 end
+insert_to: 11, len: 11
+turn: 668, n_sample: 1
+turn: 669 end
+turn: 670 end
+turn: 671 end
+insert_to: 10, len: 10
+turn: 672 end
+turn: 673 end
+turn: 674 end
+turn: 675 end
+insert_to: 0, len: 11
+turn: 675, n_sample: 1
+turn: 676 end
+turn: 677 end
+turn: 678 end
+turn: 679 end
+insert_to: 0, len: 10
+turn: 680 end
+turn: 681 end
+turn: 682 end
+insert_to: 11, len: 11
+turn: 682, n_sample: 1
+turn: 683 end
+turn: 684 end
+turn: 685 end
+turn: 686 end
+insert_to: 0, len: 10
+turn: 687 end
+turn: 688 end
+turn: 689 end
+insert_to: 11, len: 11
+turn: 689, n_sample: 1
+turn: 690 end
+turn: 691 end
+turn: 692 end
+turn: 693 end
+insert_to: 0, len: 10
+turn: 694 end
+turn: 695 end
+turn: 696 end
+insert_to: 11, len: 11
+turn: 696, n_sample: 1
+turn: 697 end
+turn: 698 end
+turn: 699 end
+insert_to: 10, len: 10
+turn: 700 end
+turn: 701 end
+turn: 702 end
+turn: 703 end
+insert_to: 0, len: 11
+turn: 703, n_sample: 1
+turn: 704 end
+turn: 705 end
+turn: 706 end
+turn: 707 end
+insert_to: 0, len: 10
+turn: 708 end
+turn: 709 end
+turn: 710 end
+insert_to: 11, len: 11
+turn: 710, n_sample: 1
+turn: 711 end
+turn: 712 end
+turn: 713 end
+turn: 714 end
+insert_to: 0, len: 10
+turn: 715 end
+turn: 716 end
+turn: 717 end
+insert_to: 11, len: 11
+turn: 717, n_sample: 1
+turn: 718 end
+turn: 719 end
+turn: 720 end
+turn: 721 end
+insert_to: 0, len: 10
+turn: 722 end
+turn: 723 end
+turn: 724 end
+insert_to: 11, len: 11
+turn: 724, n_sample: 1
+turn: 725 end
+turn: 726 end
+turn: 727 end
+insert_to: 10, len: 10
+turn: 728 end
+turn: 729 end
+turn: 730 end
+turn: 731 end
+insert_to: 0, len: 11
+turn: 731, n_sample: 1
+turn: 732 end
+turn: 733 end
+turn: 734 end
+turn: 735 end
+insert_to: 0, len: 10
+turn: 736 end
+turn: 737 end
+turn: 738 end
+insert_to: 11, len: 11
+turn: 738, n_sample: 1
+turn: 739 end
+turn: 740 end
+turn: 741 end
+turn: 742 end
+insert_to: 0, len: 10
+turn: 743 end
+turn: 744 end
+turn: 745 end
+insert_to: 11, len: 11
+turn: 745, n_sample: 1
+turn: 746 end
+turn: 747 end
+turn: 748 end
+turn: 749 end
+insert_to: 0, len: 10
+turn: 750 end
+turn: 751 end
+turn: 752 end
+insert_to: 11, len: 11
+turn: 752, n_sample: 1
+turn: 753 end
+turn: 754 end
+turn: 755 end
+insert_to: 10, len: 10
+turn: 756 end
+turn: 757 end
+turn: 758 end
+turn: 759 end
+insert_to: 0, len: 11
+turn: 759, n_sample: 1
+turn: 760 end
+turn: 761 end
+turn: 762 end
+turn: 763 end
+insert_to: 0, len: 10
+turn: 764 end
+turn: 765 end
+turn: 766 end
+insert_to: 11, len: 11
+turn: 766, n_sample: 1
+turn: 767 end
+turn: 768 end
+turn: 769 end
+turn: 770 end
+insert_to: 0, len: 10
+turn: 771 end
+turn: 772 end
+turn: 773 end
+insert_to: 11, len: 11
+turn: 773, n_sample: 1
+turn: 774 end
+turn: 775 end
+turn: 776 end
+turn: 777 end
+insert_to: 0, len: 10
+turn: 778 end
+turn: 779 end
+turn: 780 end
+insert_to: 11, len: 11
+turn: 780, n_sample: 1
+turn: 781 end
+turn: 782 end
+turn: 783 end
+insert_to: 10, len: 10
+turn: 784 end
+turn: 785 end
+turn: 786 end
+turn: 787 end
+insert_to: 0, len: 11
+turn: 787, n_sample: 1
+turn: 788 end
+turn: 789 end
+turn: 790 end
+turn: 791 end
+insert_to: 0, len: 10
+turn: 792 end
+turn: 793 end
+turn: 794 end
+insert_to: 11, len: 11
+turn: 794, n_sample: 1
+turn: 795 end
+turn: 796 end
+turn: 797 end
+turn: 798 end
+insert_to: 0, len: 10
+turn: 799 end
+turn: 800 end
+turn: 801 end
+insert_to: 11, len: 11
+turn: 801, n_sample: 1
+turn: 802 end
+turn: 803 end
+turn: 804 end
+turn: 805 end
+insert_to: 0, len: 10
+turn: 806 end
+turn: 807 end
+turn: 808 end
+insert_to: 11, len: 11
+turn: 808, n_sample: 1
+turn: 809 end
+turn: 810 end
+turn: 811 end
+insert_to: 10, len: 10
+turn: 812 end
+turn: 813 end
+turn: 814 end
+turn: 815 end
+insert_to: 0, len: 11
+turn: 815, n_sample: 1
+turn: 816 end
+turn: 817 end
+turn: 818 end
+turn: 819 end
+insert_to: 0, len: 10
+turn: 820 end
+turn: 821 end
+turn: 822 end
+insert_to: 11, len: 11
+turn: 822, n_sample: 1
+turn: 823 end
+turn: 824 end
+turn: 825 end
+turn: 826 end
+insert_to: 0, len: 10
+turn: 827 end
+turn: 828 end
+turn: 829 end
+insert_to: 11, len: 11
+turn: 829, n_sample: 1
+turn: 830 end
+turn: 831 end
+turn: 832 end
+turn: 833 end
+insert_to: 0, len: 10
+turn: 834 end
+turn: 835 end
+turn: 836 end
+insert_to: 11, len: 11
+turn: 836, n_sample: 1
+turn: 837 end
+turn: 838 end
+turn: 839 end
+insert_to: 10, len: 10
+turn: 840 end
+turn: 841 end
+turn: 842 end
+turn: 843 end
+insert_to: 0, len: 11
+turn: 843, n_sample: 1
+turn: 844 end
+turn: 845 end
+turn: 846 end
+turn: 847 end
+insert_to: 0, len: 10
+turn: 848 end
+turn: 849 end
+turn: 850 end
+insert_to: 11, len: 11
+turn: 850, n_sample: 1
+turn: 851 end
+turn: 852 end
+turn: 853 end
+turn: 854 end
+insert_to: 0, len: 10
+turn: 855 end
+turn: 856 end
+turn: 857 end
+insert_to: 11, len: 11
+turn: 857, n_sample: 1
+turn: 858 end
+turn: 859 end
+turn: 860 end
+turn: 861 end
+insert_to: 0, len: 10
+turn: 862 end
+turn: 863 end
+turn: 864 end
+insert_to: 11, len: 11
+turn: 864, n_sample: 1
+turn: 865 end
+turn: 866 end
+turn: 867 end
+insert_to: 10, len: 10
+turn: 868 end
+turn: 869 end
+turn: 870 end
+turn: 871 end
+insert_to: 0, len: 11
+turn: 871, n_sample: 1
+turn: 872 end
+turn: 873 end
+turn: 874 end
+turn: 875 end
+insert_to: 0, len: 10
+turn: 876 end
+turn: 877 end
+turn: 878 end
+insert_to: 11, len: 11
+turn: 878, n_sample: 1
+turn: 879 end
+turn: 880 end
+turn: 881 end
+turn: 882 end
+insert_to: 0, len: 10
+turn: 883 end
+turn: 884 end
+turn: 885 end
+insert_to: 11, len: 11
+turn: 885, n_sample: 1
+turn: 886 end
+turn: 887 end
+turn: 888 end
+turn: 889 end
+insert_to: 0, len: 10
+turn: 890 end
+turn: 891 end
+turn: 892 end
+insert_to: 11, len: 11
+turn: 892, n_sample: 1
+turn: 893 end
+turn: 894 end
+turn: 895 end
+insert_to: 10, len: 10
+turn: 896 end
+turn: 897 end
+turn: 898 end
+turn: 899 end
+insert_to: 0, len: 11
+turn: 899, n_sample: 1
+turn: 900 end
+turn: 901 end
+turn: 902 end
+turn: 903 end
+insert_to: 0, len: 10
+turn: 904 end
+turn: 905 end
+turn: 906 end
+insert_to: 11, len: 11
+turn: 906, n_sample: 1
+turn: 907 end
+turn: 908 end
+turn: 909 end
+turn: 910 end
+insert_to: 0, len: 10
+turn: 911 end
+turn: 912 end
+turn: 913 end
+insert_to: 11, len: 11
+turn: 913, n_sample: 1
+turn: 914 end
+turn: 915 end
+turn: 916 end
+turn: 917 end
+insert_to: 0, len: 10
+turn: 918 end
+turn: 919 end
+turn: 920 end
+insert_to: 11, len: 11
+turn: 920, n_sample: 1
+turn: 921 end
+turn: 922 end
+turn: 923 end
+insert_to: 10, len: 10
+turn: 924 end
+turn: 925 end
+turn: 926 end
+turn: 927 end
+insert_to: 0, len: 11
+turn: 927, n_sample: 1
+turn: 928 end
+turn: 929 end
+turn: 930 end
+turn: 931 end
+insert_to: 0, len: 10
+turn: 932 end
+turn: 933 end
+turn: 933, n_sample: 1
+2.435619001
+Score = 9460976

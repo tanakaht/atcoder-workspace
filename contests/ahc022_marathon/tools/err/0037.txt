@@ -1,0 +1,10 @@
+    Finished release [optimized] target(s) in 0.35s
+     Running `target/release/tester ../target/release/ahc022_a`
+Number of overlap final = 3
+x = 326
+10.889825421
+Score = 741989
+Number of wrong answers = 4
+Placement cost = 43360608
+Measurement cost = 11742400
+Measurement count = 10000

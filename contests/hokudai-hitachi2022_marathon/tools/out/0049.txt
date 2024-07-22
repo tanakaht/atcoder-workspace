@@ -1,0 +1,300 @@
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+move 1090
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 68
+execute 297 47
+move 210
+move 210
+move 210
+move 210
+move 210
+move 210
+move 210
+move 210
+move 210
+move 210
+move 210
+move 210
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 68
+execute 27 62
+move 98
+move 98
+move 98
+move 98
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 68
+execute 298 26
+move 956
+move 956
+move 956
+move 956
+move 956
+move 956
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 68
+execute 254 39
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+move 983
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 68
+execute 765 26
+move 469
+move 469
+move 469
+move 469
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 68
+execute 642 36
+move 454
+move 454
+move 454
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 68
+execute 664 17
+move 453
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 68
+execute 976 63
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+move 553
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 68
+execute 759 62
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+move 1087
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 68
+execute 111 55
+move 605
+move 605
+move 605
+move 605
+move 605
+move 605
+move 605
+move 605
+move 605
+move 605
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 68
+execute 745 48
+move 680
+move 680
+move 680
+move 680
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 68
+execute 704 25
+move 452

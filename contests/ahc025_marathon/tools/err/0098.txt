@@ -1,0 +1,280 @@
+    Blocking waiting for file lock on build directory
+    Finished release [optimized] target(s) in 0.34s
+     Running `target/release/tester ../target/release/ahc025_a`
+turn: 1 end
+turn: 2 end
+turn: 3 end
+turn: 4 end
+turn: 5 end
+turn: 6 end
+turn: 7 end
+turn: 8 end
+turn: 9 end
+turn: 10 end
+turn: 11 end
+turn: 12 end
+turn: 13 end
+turn: 14 end
+turn: 15 end
+turn: 16 end
+turn: 17 end
+turn: 18 end
+turn: 19 end
+turn: 20 end
+turn: 21 end
+turn: 22 end
+turn: 23 end
+turn: 24 end
+turn: 25 end
+turn: 26 end
+turn: 27 end
+turn: 28 end
+turn: 29 end
+turn: 30 end
+turn: 31 end
+turn: 32 end
+turn: 33 end
+turn: 34 end
+turn: 35 end
+turn: 36 end
+turn: 36, n_sample: 38
+turn: 37 end
+turn: 38 end
+turn: 39 end
+turn: 40 end
+insert_to: 1, len: 12
+turn: 41 end
+turn: 42 end
+turn: 43 end
+turn: 44 end
+insert_to: 12, len: 13
+turn: 44, n_sample: 20
+turn: 45 end
+turn: 46 end
+turn: 47 end
+insert_to: 6, len: 12
+turn: 48 end
+turn: 49 end
+turn: 50 end
+turn: 51 end
+insert_to: 5, len: 13
+turn: 51, n_sample: 8
+turn: 52 end
+turn: 53 end
+turn: 54 end
+turn: 55 end
+insert_to: 10, len: 12
+turn: 56 end
+turn: 57 end
+turn: 58 end
+turn: 59 end
+insert_to: 2, len: 13
+turn: 59, n_sample: 15
+turn: 60 end
+turn: 61 end
+turn: 62 end
+insert_to: 6, len: 12
+turn: 63 end
+turn: 64 end
+turn: 65 end
+turn: 66 end
+insert_to: 11, len: 13
+turn: 66, n_sample: 11
+turn: 67 end
+turn: 68 end
+turn: 69 end
+turn: 70 end
+insert_to: 10, len: 12
+turn: 71 end
+turn: 72 end
+turn: 73 end
+insert_to: 6, len: 13
+turn: 73, n_sample: 14
+turn: 74 end
+turn: 75 end
+turn: 76 end
+turn: 77 end
+insert_to: 0, len: 12
+turn: 78 end
+turn: 79 end
+turn: 80 end
+insert_to: 13, len: 13
+turn: 80, n_sample: 19
+turn: 81 end
+turn: 82 end
+turn: 83 end
+turn: 84 end
+insert_to: 0, len: 12
+turn: 85 end
+turn: 86 end
+turn: 87 end
+insert_to: 13, len: 13
+turn: 87, n_sample: 11
+turn: 88 end
+turn: 89 end
+turn: 90 end
+turn: 91 end
+insert_to: 10, len: 12
+turn: 92 end
+turn: 93 end
+turn: 94 end
+turn: 95 end
+insert_to: 5, len: 13
+turn: 95, n_sample: 17
+turn: 96 end
+turn: 97 end
+turn: 98 end
+turn: 99 end
+insert_to: 8, len: 12
+turn: 100 end
+turn: 101 end
+turn: 102 end
+turn: 103 end
+insert_to: 1, len: 13
+turn: 103, n_sample: 15
+turn: 104 end
+turn: 105 end
+turn: 106 end
+insert_to: 12, len: 12
+turn: 107 end
+turn: 108 end
+turn: 109 end
+turn: 110 end
+insert_to: 0, len: 13
+turn: 110, n_sample: 21
+turn: 111 end
+turn: 112 end
+turn: 113 end
+insert_to: 12, len: 12
+turn: 114 end
+turn: 115 end
+turn: 116 end
+turn: 117 end
+insert_to: 0, len: 13
+turn: 117, n_sample: 27
+turn: 118 end
+turn: 119 end
+turn: 120 end
+turn: 121 end
+insert_to: 5, len: 12
+turn: 122 end
+turn: 123 end
+turn: 124 end
+turn: 125 end
+insert_to: 7, len: 13
+turn: 125, n_sample: 15
+turn: 126 end
+turn: 127 end
+turn: 128 end
+turn: 129 end
+insert_to: 0, len: 12
+turn: 130 end
+turn: 131 end
+turn: 132 end
+insert_to: 13, len: 13
+turn: 132, n_sample: 18
+turn: 133 end
+turn: 134 end
+turn: 135 end
+turn: 136 end
+insert_to: 4, len: 12
+turn: 137 end
+turn: 138 end
+turn: 139 end
+turn: 140 end
+insert_to: 9, len: 13
+turn: 140, n_sample: 26
+turn: 141 end
+turn: 142 end
+turn: 143 end
+insert_to: 12, len: 12
+turn: 144 end
+turn: 145 end
+turn: 146 end
+turn: 147 end
+insert_to: 0, len: 13
+turn: 147, n_sample: 28
+turn: 148 end
+turn: 149 end
+turn: 150 end
+insert_to: 12, len: 12
+turn: 151 end
+turn: 152 end
+turn: 153 end
+turn: 154 end
+insert_to: 0, len: 13
+turn: 154, n_sample: 38
+turn: 155 end
+turn: 156 end
+turn: 157 end
+insert_to: 12, len: 12
+turn: 158 end
+turn: 159 end
+turn: 160 end
+turn: 161 end
+insert_to: 0, len: 13
+turn: 161, n_sample: 44
+turn: 162 end
+turn: 163 end
+turn: 164 end
+insert_to: 12, len: 12
+turn: 165 end
+turn: 166 end
+turn: 167 end
+turn: 168 end
+insert_to: 0, len: 13
+turn: 168, n_sample: 52
+turn: 169 end
+turn: 170 end
+turn: 171 end
+insert_to: 12, len: 12
+turn: 172 end
+turn: 173 end
+turn: 174 end
+turn: 175 end
+insert_to: 0, len: 13
+turn: 175, n_sample: 59
+turn: 176 end
+turn: 177 end
+turn: 178 end
+insert_to: 12, len: 12
+turn: 179 end
+turn: 180 end
+turn: 181 end
+turn: 182 end
+insert_to: 0, len: 13
+turn: 182, n_sample: 64
+turn: 183 end
+turn: 184 end
+turn: 185 end
+insert_to: 12, len: 12
+turn: 186 end
+turn: 187 end
+turn: 188 end
+turn: 189 end
+insert_to: 0, len: 13
+turn: 189, n_sample: 75
+turn: 190 end
+turn: 191 end
+turn: 192 end
+insert_to: 12, len: 12
+turn: 193 end
+turn: 194 end
+turn: 195 end
+turn: 196 end
+insert_to: 0, len: 13
+turn: 196, n_sample: 83
+turn: 197 end
+turn: 198 end
+turn: 199 end
+insert_to: 12, len: 12
+turn: 200 end
+turn: 201 end
+turn: 202 end
+turn: 203 end
+insert_to: 0, len: 13
+turn: 203, n_sample: 91
+turn: 204 end
+turn: 204, n_sample: 91
+1.201823126
+Score = 2835148

@@ -1,0 +1,9 @@
+simanneal start at 0.451584625
+782175 7 0 1
+783775 13 93 2
+784000 15 92 3
+===== simanneal =====
+all iter   : 17
+accepted   : 3
+score  : 784000
+

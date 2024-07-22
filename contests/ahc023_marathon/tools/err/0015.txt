@@ -1,0 +1,7 @@
+simanneal start at 0.355798542
+770275 12 89 1
+===== simanneal =====
+all iter   : 29
+accepted   : 1
+score  : 770275
+

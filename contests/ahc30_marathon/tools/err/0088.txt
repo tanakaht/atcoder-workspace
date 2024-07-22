@@ -1,0 +1,39 @@
+    Finished release [optimized] target(s) in 0.12s
+     Running `target/release/tester ../target/release/ahc30_a`
+turn: 0
+start_solve_problem 2*2
+n_candidate_aft: 1000
+turn: 1
+start_solve_problem 4*3
+n_candidate_aft: 304
+turn: 2
+start_solve_problem 8*4
+n_candidate_aft: 72
+turn: 3
+start_solve_problem 8*4
+n_candidate_aft: 54
+turn: 4
+start_solve_problem 15*5
+n_candidate_aft: 12
+turn: 5
+start_solve_problem 14*5
+n_candidate_aft: 15
+turn: 6
+start_solve_problem 20*6
+n_candidate_aft: 11
+turn: 7
+start_solve_problem 26*7
+n_candidate_aft: 3
+start_solve_problem 15*7
+n_candidate_aft2: 3
+turn: 8
+start_solve_problem 13*7
+n_candidate_aft: 2
+start_solve_problem 13*7
+n_candidate_aft2: 2
+turn: 9
+start_solve_problem 13*7
+n_candidate_aft: 1
+start_solve_problem 13*7
+n_candidate_aft2: 1
+Score = 9000000
