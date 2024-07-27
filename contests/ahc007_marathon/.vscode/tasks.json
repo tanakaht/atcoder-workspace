@@ -1,0 +1,55 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "test_all_py",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/test_all_py.sh",
+      "args": [
+        "${fileBasenameNoExtension}"
+      ]
+    },
+    {
+      "label": "test_py",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/test_py.sh",
+      "args": [
+        "${fileBasenameNoExtension}"
+      ]
+    },
+    {
+      "label": "test_all_rust",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/test_all_rust.sh",
+      "args": [
+        "${fileBasenameNoExtension}"
+      ]
+    },
+    {
+      "label": "test_rust",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/test_rust.sh",
+      "args": [
+        "${fileBasenameNoExtension}"
+      ]
+    }
+  ]
+}
